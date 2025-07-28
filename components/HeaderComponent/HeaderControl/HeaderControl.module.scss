@@ -1,0 +1,7 @@
+@import "styles/utils/variables";
+
+.HeaderControl {
+  @media (max-width: $sm) {
+    padding: 15px 35px !important;
+  }
+}

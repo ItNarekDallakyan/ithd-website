@@ -1,0 +1,19 @@
+.Accordion {
+  transition: 1s all;
+}
+
+.Accordion[aria-checked="true"] {
+  border-color: var(--dove-grey);
+  background: var(--white);
+  .Accordion__cross {
+    transform: rotate(225deg);
+  }
+  .Accordion__title {
+    color: var(--black);
+  }
+}
+
+.Accordion__content {
+  opacity: 100;
+  height: auto;
+}

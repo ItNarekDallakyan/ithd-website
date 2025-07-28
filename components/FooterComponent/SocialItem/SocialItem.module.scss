@@ -1,0 +1,6 @@
+.SocialItem {
+  &:hover svg path {
+    transition: .35s all;
+    fill: var(--orange);
+  }
+}

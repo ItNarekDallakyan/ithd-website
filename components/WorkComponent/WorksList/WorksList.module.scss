@@ -1,0 +1,6 @@
+.WorksListItem {
+  max-width: 48.55%;
+  @media (max-width: 1280px) {
+    max-width: 100% !important;
+  }
+}

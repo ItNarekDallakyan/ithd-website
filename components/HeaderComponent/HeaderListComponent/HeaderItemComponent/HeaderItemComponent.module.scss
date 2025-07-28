@@ -1,0 +1,15 @@
+.HeaderItemComponent {
+  &:after {
+    content: "";
+    transition: all .15s ease-in-out;
+    height: 20px;
+    width: 10px;
+    background-image: url("/images/header-item-active-icon.svg");
+    right: -15px;
+  }
+  @media (max-width: 1024px) {
+    &:hover {
+      opacity: .7;
+    }
+  }
+}

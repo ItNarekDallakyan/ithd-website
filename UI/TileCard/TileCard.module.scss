@@ -1,0 +1,13 @@
+@import "styles/utils/mixins";
+
+.TileCard {
+  &:hover .TileCard__text {
+    color: var(--white);
+  }
+  .TileCard__description {
+    @include TrimString(5);
+  }
+  &:hover .TileCard__icon svg path {
+    fill: var(--orange);
+  }
+}

@@ -1,0 +1,73 @@
+@import "styles/utils/mixins";
+@import "styles/utils/variables";
+
+.Button {
+  @include GlobalFontFamily;
+  &:disabled {
+    cursor: default;
+    opacity: .5;
+    transform: translate(0, 0) !important;
+    box-shadow: none!important;
+  }
+  &[data-hover="up"]:hover {
+    transition-duration: 0.35s;
+    transform: translate(4px,-4px);
+    box-shadow: -3px 3px 8px rgba(0,0,0,.15);
+  }
+  &[data-hover="background"]:hover {
+    background: var(--dark);
+    color: var(--white);
+  }
+}
+
+.small {
+  padding: 10px 24px;
+  font-size: 18px;
+  @media (max-width: $sm) {
+    font-size: 14px;
+  }
+}
+
+.large {
+  font-size: 19px;
+  padding: 18px 32px;
+  @media (max-width: $sm) {
+    font-size: 15px;
+    padding: 14px 20px;
+  }
+  @media (max-width: 340px) {
+    font-size: 14px;
+  }
+}
+
+.orange {
+  background: var(--orange);
+  color: var(--dark);
+  &:disabled {
+    background: var(--orange)!important;
+    color: var(--dark) !important;
+  }
+}
+
+.dark {
+  background: var(--dark);
+  color: var(--white);
+  &:disabled {
+    background: var(--dark)!important;
+    color: var(--white)!important;
+  }
+}
+
+.grey {
+  background: var(--grey);
+  color: var(--dark);
+  &:disabled {
+    background: var(--grey)!important;
+    color: var(--dark)!important;
+  }
+}
+
+.white {
+  background: var(--white);
+  color: var(--dark);
+}

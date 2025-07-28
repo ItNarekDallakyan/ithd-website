@@ -1,0 +1,8 @@
+@import "styles/utils/variables";
+
+.ContentSection {
+  padding: 96px 80px!important;
+  @media (max-width: $md) {
+    padding: 56px 25px!important;
+  }
+}

@@ -1,0 +1,16 @@
+@import "styles/utils/variables";
+
+.Typography__active {
+  @media (min-width: $sm) {
+    &::after {
+      display: inline-block;
+      content: "";
+      position: absolute;
+      width: 0.78em;
+      height: 1em;
+      top: -10px;
+      background-image: url("/images/active-illustration.svg");
+      background-repeat: no-repeat;
+    }
+  }
+}

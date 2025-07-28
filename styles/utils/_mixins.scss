@@ -1,0 +1,41 @@
+@mixin GlobalFontFamily {
+  font-family: "Montserrat", "sans-serif";
+}
+
+@mixin AllTransitionStylesMixin {
+  transition: all .35s ease-out;
+}
+
+@mixin OpacityStyles {
+  opacity: .7;
+}
+
+@mixin TextFieldPlaceholderColorMixin($color) {
+  &::-webkit-input-placeholder { /* WebKit browsers */
+    color: $color;
+  }
+  &:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: $color;
+  }
+  &::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: $color;
+  }
+  &:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: $color;
+  }
+}
+
+@mixin TrimString($clampCount) {
+  -webkit-line-clamp: $clampCount;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@mixin ScaleStyles {
+  transform: scale(1.05);
+}
+
+@mixin FullHeightSectionStyles {
+  min-height: calc(100vh - 75px);
+}

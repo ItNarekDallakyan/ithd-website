@@ -1,0 +1,15 @@
+.Snackbar {
+  z-index: 999999999999999;
+  padding: 15px;
+  @media (max-width: 650px) {
+    padding: 10px;
+  }
+}
+
+.error {
+  background: var(--pink);
+}
+
+.info {
+  background: var(--dark);
+}

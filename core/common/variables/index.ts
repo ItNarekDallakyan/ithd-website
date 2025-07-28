@@ -1,0 +1,11 @@
+export const PLATFORM_NAME = "ITHD";
+export const WORKS_IMAGES_BASE_PATH = `/images/works/`;
+export const URL_REGEXP = /^(https?:\/\/)?([\w-]+(\.[\w-]+)+)([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?$/;
+export const SERVICES_IMAGES_BASE_PATH = `/images/services/`;
+export const IMAGES_TYPES = ".png, .jpg, .jpeg";
+export const WEBSITE_URL = "https://ithd.org";
+export const ROBOTS_CONTENT = "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1";
+export const BOLD_REGEXP = /\*\*(.*?)\*\*/g;
+export const EMAIL_SERVICE_ID = "service_hw7200r";
+export const EMAIL_TEMPLATE_ID = "template_dmrqt3q";
+export const EMAIL_PUBLIC_KEY = "8XTdhGUnrgFnY4G3j";
