@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const path = require("path");
+const withTM = require('next-transpile-modules')(['streamdown']);
 
-const nextConfig = {
+const nextConfig = withTM({
   reactStrictMode: false,
   output: "standalone",
   trailingSlash: true,
@@ -24,6 +25,6 @@ const nextConfig = {
       }
     ]
   }
-}
+})
 
 module.exports = nextConfig

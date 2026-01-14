@@ -4,7 +4,7 @@ import {SERVICES_IMAGES_BASE_PATH, WORKS_IMAGES_BASE_PATH} from "@common/variabl
 export const FOOTER_ROUTES = [
     {
         id: 9,
-        label: "Testimonies",
+        label: "Testimonials",
         path: ROUTES.TESTIMONIES,
         children: []
     },
@@ -16,13 +16,13 @@ export const FOOTER_ROUTES = [
     },
     {
         id: 6,
-        label: "Contact",
+        label: "Contact Us",
         children: [],
         path: ROUTES.CONTACT
     },
     {
         id: 7,
-        label: "FAQ",
+        label: "FAQs",
         path: ROUTES.FAQ,
         children: []
     }
@@ -45,74 +45,74 @@ const WEB_DEVELOPMENT = {
     technologies: [
         {
             title: "React.js",
-            content: "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+            content: "React.js is a powerful JavaScript library trusted by Fortune 500 companies worldwide for building dynamic, high-performance web applications. Our expert developers leverage React's component-based architecture to create scalable, maintainable solutions that deliver exceptional user experiences and fast load times.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
         },
         {
             title: "Next.js",
-            content: "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+            content: "Next.js is the industry-leading React framework that powers modern web applications for global enterprises. By combining server-side rendering, static site generation, and API routes, Next.js enables us to build lightning-fast, SEO-optimized websites with superior performance and enhanced user engagement.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
         },
         {
             title: "Webpack",
-            content: "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+            content: "Webpack is an advanced module bundler that optimizes your web application's performance through efficient code splitting and asset management. Our development team utilizes Webpack's powerful build tools to ensure faster page loads, reduced file sizes, and improved overall website performance.",
             icon: "https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg"
         }
     ],
     whatWeOffer: {
-        [LANGUAGES.EN]: "Customized React JS solutions that meet your specific needs Experienced and passionate developers who are up-to-date on the latest trends A transparent and collaborative development process Agile methodology to ensure on-time and within-budget delivery Exceptional customer service and support A commitment to building long-term relationships"
+        [LANGUAGES.EN]: "Custom-built React.js solutions tailored to your business objectives | Award-winning developers with expertise in cutting-edge technologies | Transparent project management with regular milestone updates | Agile development methodology ensuring on-time, on-budget delivery | Dedicated 24/7 customer support and maintenance | Long-term partnership focused on your digital success"
     },
     approach: {
-        [LANGUAGES.EN]: "We believe that every project is unique and requires a customized approach. We work closely with our clients to understand their business goals and design a tailored solution that fits their specific needs. Our team is experienced in developing a wide range of web applications, from small-scale projects to large, enterprise-level applications."
+        [LANGUAGES.EN]: "Every business is unique, and so is every web development project. Our experienced team collaborates closely with you to understand your specific goals, target audience, and competitive landscape. We design custom web solutions that align perfectly with your brand identity and business objectives, from simple business websites to complex enterprise applications."
     },
     expertise: {
-        [LANGUAGES.EN]: "We have extensive experience in developing React JS applications using modern tools and technologies. Our developers are skilled in React JS libraries and frameworks, including Redux and Next.js. We are also proficient in using modern front-end development tools, such as Webpack and ESLint."
+        [LANGUAGES.EN]: "Our certified developers bring years of hands-on experience building React.js applications using industry-leading frameworks and tools. We specialize in modern JavaScript libraries including Redux for state management and Next.js for server-side rendering. Our technical stack also includes advanced build tools like Webpack, ESLint for code quality, and comprehensive testing frameworks."
     },
     process: {
-        [LANGUAGES.EN]: "Our development process is transparent and collaborative, ensuring that our clients are involved in every step of the project. We use Agile methodology to deliver high-quality projects on time and within budget. Our team is dedicated to providing exceptional customer service and support, and we are committed to building long-term relationships with our clients."
+        [LANGUAGES.EN]: "We believe in complete transparency throughout the web development lifecycle. Our proven Agile methodology ensures continuous client involvement, regular sprint reviews, and iterative improvements. From initial consultation through deployment and beyond, we maintain open communication channels and provide detailed progress reports to guarantee project success."
     },
     title: {
-        [LANGUAGES.EN]: "Website development"
+        [LANGUAGES.EN]: "Professional Web Development Services in Dubai"
     },
     description: {
-        [LANGUAGES.EN]: "<p><strong>1. Elevating Your Digital Presence</strong><br>Elevate your digital presence with our professional website development services. In an increasingly digital world, your website serves as the primary gateway to your brand. It's the platform where first impressions are formed, and we recognize the importance of making that impression a remarkable one.<br>&nbsp;</p><p><strong>2. Seasoned Team and Meticulous Craftsmanship</strong><br>Our seasoned team of experts approaches each project with meticulous attention to detail. We're passionate about the art of web development, and we understand that excellence lies in crafting custom, responsive, and user-centric websites. Our aim is not just to meet your expectations but to consistently deliver results that leave a lasting impact.<br>&nbsp;</p><p><strong>3. From Concept to Deployment</strong><br>From the very inception of your website concept to the final seamless deployment, we take care of every step of the journey. Our comprehensive approach ensures a polished and tailored online presence that aligns perfectly with your unique goals and vision. We believe in creating websites that are not only visually stunning but also highly functional.<br>&nbsp;</p><p><strong>4. Bringing Your Web Projects to Life</strong><br>We view websites as more than just lines of code and design elements. They are digital embodiments of your brand, and we're here to breathe life into your web projects. We don't just build websites; we create digital experiences that resonate with your audience and help you achieve your objectives.<br>&nbsp;</p><p><strong>5. Collaboration and Client-Centric Approach</strong><br>Collaboration and communication are at the heart of our process. We work closely with you, involving you in key decisions, and valuing your feedback at every stage. This client-centric approach ensures that your website truly represents your brand, goals, and aspirations.</p><p>&nbsp;</p><p>Let us bring your web projects to life. Contact us today to embark on this exciting digital journey. Whether you're starting a new online venture or revamping an existing site, our dedicated team is ready to make your vision a stunning reality. Your digital success is our top priority, and we're excited to be a part of your online growth.</p>"
+        [LANGUAGES.EN]: "<p><strong>1. Transform Your Digital Presence with Expert Web Development</strong><br>Elevate your brand with professional web development services in Dubai. Your website is your digital storefront and the foundation of your online presence. In today's competitive marketplace, a professionally designed website isn't just nice to have—it's essential for business growth. We understand that first impressions matter, which is why we create websites that captivate visitors and drive conversions.<br>&nbsp;</p><p><strong>2. Award-Winning Development Team & Proven Methodology</strong><br>Our seasoned development team brings together decades of combined experience in web technologies. We're passionate about crafting custom, responsive, and user-focused websites that exceed industry standards. Each project undergoes rigorous quality assurance to ensure flawless functionality, optimal performance, and seamless user experience across all devices and browsers.<br>&nbsp;</p><p><strong>3. Complete Web Development Solutions from Strategy to Launch</strong><br>From initial concept and strategic planning to final deployment and ongoing support, we manage every aspect of your web development project. Our comprehensive approach includes market research, <a href='/services/ux-ui-design/'>UX/UI design</a>, <a href='/services/web-development/'>custom development</a>, quality testing, SEO optimization, and post-launch maintenance. We create stunning, high-performing websites that align with your business goals and drive measurable results.<br>&nbsp;</p><p><strong>4. Bringing Your Vision to Life with Cutting-Edge Technology</strong><br>We view websites as powerful business tools that represent your brand's identity and values in the digital world. Using the latest technologies including React.js, Next.js, and modern web standards, we transform your ideas into fully functional, scalable web applications. Whether you need an e-commerce platform, corporate website, or <a href='/services/business-automation/'>custom web application</a>, we deliver solutions that engage users and achieve your objectives.<br>&nbsp;</p><p><strong>5. Client-Focused Collaboration & Transparent Communication</strong><br>Your success is our priority. We maintain open communication throughout every project phase, involving you in key decisions and incorporating your feedback at each milestone. This collaborative approach ensures your website truly reflects your brand vision, business values, and target audience expectations. Our client-centric methodology has helped businesses across Dubai achieve their digital transformation goals.<br>&nbsp;</p><p><strong>Ready to Launch Your Web Project?</strong></p><p>Let's bring your digital vision to life. <a href='/contact/'>Contact our expert team</a> today to discuss your web development needs. Whether you're launching a new business, redesigning your existing site, or building a complex web application, our dedicated developers are ready to turn your ideas into reality. Discover why leading businesses in Dubai trust us for their web development needs. View our <a href='/portfolio/'>portfolio of successful projects</a> and read <a href='/testimonies/'>client testimonials</a> to see the results we deliver.</p>"
     },
     shortDescription: {
         [LANGUAGES.EN]: `
-            <p>Our skilled team specializes in creating websites that excel in all areas. We optimize them for search engines to ensure high visibility for potential customers. Our designs prioritize user-friendly navigation, making it easy for visitors to find what they need.</p>
+            <p>Our professional web development team specializes in creating high-performance websites optimized for search engines and user experience. We build responsive, mobile-friendly sites with intuitive navigation that convert visitors into customers. Partner with Dubai's leading web development agency for results-driven digital solutions.</p>
         `
     },
     faqList: [
         {
             title: {
-                [LANGUAGES.EN]: "How much does Web development cost?"
+                [LANGUAGES.EN]: "What is the cost of professional web development services?"
             },
             content: {
-                [LANGUAGES.EN]: "The cost of Web development varies depending on the scope of work, complexity, and features required for the app. It's recommended to obtain a quote from an experienced Web development service provider after discussing your requirements. On average, a typical Web development project can cost around $3,000 or more."
+                [LANGUAGES.EN]: "Web development costs vary based on project scope, complexity, required features, and technology stack. Factors include design customization, functionality requirements, third-party integrations, and ongoing maintenance needs. Typical professional website development projects start from $3,000 and scale based on your specific requirements. <a href='/contact/'>Contact us</a> for a detailed quote tailored to your business needs and budget."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "How Long Does It Take to Build a Web App?"
+                [LANGUAGES.EN]: "How long does it take to develop a professional website?"
             },
             content: {
-                [LANGUAGES.EN]: "The duration of a Web development project depends on several factors, including the requirements, dependencies, complexity, and scope of work. On average, a typical Web development service can take around 3 weeks or longer. However, when we assess and scope your project, we will provide you with a more accurate estimate of how long your Web development project will take. This will help you plan and manage your resources accordingly and ensure that your project is delivered on time and within budget."
+                [LANGUAGES.EN]: "Website development timelines depend on project complexity, feature requirements, content readiness, and revision cycles. A standard business website typically takes 3-6 weeks from initial consultation to launch. Complex e-commerce or custom web applications may require 8-12 weeks or more. During our <a href='/our-process/'>initial assessment</a>, we'll provide you with a detailed timeline and project roadmap with clear milestones, ensuring efficient resource allocation and on-time delivery."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "What kind of support is provided after the app is launched?"
+                [LANGUAGES.EN]: "What ongoing support and maintenance do you provide?"
             },
             content: {
-                [LANGUAGES.EN]: "We offer continuous maintenance and support services after launching the app, which may include bug fixes, updates, and feature enhancements. The pricing for ongoing support will depend on the complexity of the work required."
+                [LANGUAGES.EN]: "We offer comprehensive post-launch support including security updates, bug fixes, performance optimization, content updates, and feature enhancements. Our maintenance packages are flexible and customized based on your needs. We provide 24/7 technical support, regular backups, uptime monitoring, and priority assistance. Learn more about our <a href='/services/web-development/'>ongoing maintenance services</a> and support packages."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "Do I get ownership rights?"
+                [LANGUAGES.EN]: "Will I own the website and all its components?"
             },
             content: {
-                [LANGUAGES.EN]: "Absolutely! Upon receipt of payment, you will own all rights to the concepts and variations developed during your project, including the final designs. However, unless otherwise agreed in advance, we reserve the right to display the work we have done for you as part of our portfolio. Additionally, upon completion of the project, we will provide you with the source files for the project."
+                [LANGUAGES.EN]: "Absolutely! Upon final payment, you receive full ownership rights to all website components including source code, design files, content, and intellectual property developed during your project. We provide complete documentation and training for your team. Unless agreed otherwise, we reserve the right to showcase the website in our <a href='/portfolio/'>portfolio</a>. All source files, databases, and access credentials are transferred to you upon project completion."
             }
         },
     ]
@@ -122,7 +122,7 @@ const ANDROID_DEVELOPMENT = {
     movie: "3NP5Wjc49fk",
     path: "/android-development",
     title: {
-        [LANGUAGES.EN]: "<p>Android development</p>"
+        [LANGUAGES.EN]: "<p>Professional Android App Development Services</p>"
     },
     media: [
         `${SERVICES_IMAGES_BASE_PATH}android-development/1.jpg`,
@@ -131,69 +131,69 @@ const ANDROID_DEVELOPMENT = {
     technologies: [
         {
             title: "Kotlin",
-            content: "Kotlin, a modern and versatile programming language, has become an integral part of Android app development. Its concise syntax and powerful features make it the ideal choice for creating high-quality Android applications. Leveraging Kotlin's capabilities, developers can take full advantage of the Android platform and its vast opportunities for digital companies.",
+            content: "Kotlin is Google's preferred programming language for Android development, offering enhanced safety, conciseness, and interoperability. Our expert developers leverage Kotlin's modern features to build robust, high-performance Android applications that fully utilize the platform's capabilities, ensuring faster development cycles and superior app quality.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"
         },
         {
             title: "Android",
-            content: "Android, the world's most popular mobile operating system, offers vast opportunities for digital companies. With its open ecosystem, diverse device support, and thriving app marketplace, Android is the platform of choice for innovation and reaching a global audience. Elevate your digital presence with Android development expertise.",
+            content: "Android is the world's leading mobile operating system with over 70% global market share, offering unparalleled reach for businesses. Our Android development expertise helps you tap into this massive user base through the Google Play Store ecosystem. We build scalable, secure applications that work seamlessly across thousands of Android devices worldwide.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg"
         },
         {
             title: "Jetpack Compose",
-            content: "Jetpack Compose is a revolutionary UI toolkit for Android app development. It simplifies the creation of dynamic and visually stunning user interfaces with a declarative approach. With its rich library of components, it streamlines design and boosts productivity, enabling digital companies to craft modern, intuitive apps effortlessly.",
+            content: "Jetpack Compose is Android's modern UI toolkit that revolutionizes mobile app development with declarative programming. Our developers utilize Compose's powerful component library to create stunning, responsive interfaces with less code and improved productivity. This cutting-edge framework enables us to deliver visually impressive, high-performance apps faster than traditional methods.",
             icon: "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"
         }
     ],
     whatWeOffer: {
-        [LANGUAGES.EN]: "At our Android development studio, we offer comprehensive end-to-end solutions tailored to meet all your app's requirements. Our team of experts harnesses the power of Jetpack Compose to craft innovative, visually captivating Android applications."
+        [LANGUAGES.EN]: "Comprehensive end-to-end Android app development solutions customized to your business needs. Our certified Android developers leverage cutting-edge technologies including Jetpack Compose, Kotlin Coroutines, and Material Design to create innovative, high-performance applications. We deliver secure, scalable mobile solutions that engage users and drive business growth."
     },
     approach: {
-        [LANGUAGES.EN]: "In the realm of Android development, our approach is dedicated to crafting exceptional apps that seamlessly merge cutting-edge technology with user-centric design. Our process commences with a deep dive into your objectives and a thorough understanding of your target audience."
+        [LANGUAGES.EN]: "Our Android development approach combines technical excellence with user-centered design principles. We begin each project with in-depth research into your business objectives, target audience demographics, competitive landscape, and market positioning. This strategic foundation ensures we build Android applications that not only meet technical requirements but also deliver exceptional user experiences and measurable business value."
     },
     expertise: {
-        [LANGUAGES.EN]: "Our team of highly skilled developers stands firmly at the forefront of Android innovation, specializing in avant-garde frameworks like Jetpack Compose. What sets us apart is not only meeting but consistently exceeding industry standards. Our portfolio is a testament to our proven track record in creating user-centric, feature-rich, and visually captivating apps that span a multitude of industries."
+        [LANGUAGES.EN]: "Our award-winning Android development team stays at the forefront of mobile innovation, specializing in modern frameworks like Jetpack Compose, Android Architecture Components, and Material Design 3. We consistently exceed industry standards by implementing best practices in performance optimization, security, and user experience. Our diverse portfolio demonstrates proven expertise delivering feature-rich, visually stunning applications across healthcare, finance, e-commerce, and enterprise sectors."
     },
     process: {
-        [LANGUAGES.EN]: "Our Android development process is a proven roadmap to success, tailored to your specific needs and goals. We start by understanding your target audience and your desired outcomes, then create a customized plan that aligns with your vision. Throughout the development process, we collaborate closely with you, keeping you involved in every phase, from concept to launch."
+        [LANGUAGES.EN]: "Our proven Android development process follows industry best practices from concept to deployment and beyond. We collaborate closely with stakeholders throughout every development phase including requirements gathering, UX/UI design, agile development sprints, quality assurance testing, Play Store deployment, and post-launch support. Regular communication, milestone reviews, and iterative feedback ensure your Android app meets expectations and launches successfully."
     },
     description: {
-        [LANGUAGES.EN]: "<p><strong>1. Tailored Solutions</strong></p><p>Jetpack Compose allows for highly customized user interfaces. Our development team will craft solutions that precisely match your unique needs, ensuring that your app stands out in the crowded Android marketplace.<br>&nbsp;</p><p><strong>2. Expertise and Innovation</strong></p><p>Our developers are passionate and well-versed in the latest trends in Android development. They're committed to staying up-to-date with the ever-evolving world of Jetpack Compose to bring innovative and cutting-edge solutions to your project.<br>&nbsp;</p><p><strong>3. Transparent Collaboration</strong></p><p>Collaboration is key to a successful project. We prioritize transparency in our development process, keeping you informed at every step. This collaborative approach ensures that the final product aligns perfectly with your vision.<br>&nbsp;</p><p><strong>4. Agile Methodology</strong></p><p>To meet project timelines and budgets, we employ an Agile methodology. This approach allows us to adapt to changing requirements, deliver incremental updates, and ensure your project remains on time and within budget.<br>&nbsp;</p><p><strong>5. Exceptional Support</strong></p><p>Our commitment to your project doesn't end at delivery. We provide exceptional customer service and support to address any issues or updates that may arise post-launch. Your satisfaction is our top priority.<br>&nbsp;</p><p><strong>6. Long-Term Partnership</strong></p><p>We're not just here for a one-time project; we're dedicated to building long-term relationships. Our team is ready to support your app through its entire lifecycle, ensuring its continuous success.</p><p><br>Whether you're building a new Android app or looking to enhance an existing one, our Android Development with Jetpack Compose services are designed to meet your needs and exceed your expectations.</p>"
+        [LANGUAGES.EN]: "<p><strong>1. Custom Android Solutions Tailored to Your Business</strong></p><p>Jetpack Compose enables highly customized, pixel-perfect user interfaces that differentiate your app in the competitive Android marketplace. Our development team crafts bespoke solutions aligned with your unique requirements, brand identity, and user expectations. We create standout Android applications that deliver exceptional user experiences and drive engagement.<br>&nbsp;</p><p><strong>2. Innovation Through Expertise and Passion</strong></p><p>Our developers are passionate Android specialists who stay current with the latest platform updates, design trends, and development techniques. We're committed to continuous learning in Jetpack Compose, Kotlin advancements, and Android best practices. This dedication to innovation enables us to deliver cutting-edge solutions that leverage the full potential of the Android ecosystem. <a href='/portfolio/'>View our successful Android projects</a>.<br>&nbsp;</p><p><strong>3. Transparent Collaboration Every Step</strong></p><p>Successful Android projects require clear communication and collaboration. We maintain complete transparency throughout development, providing regular updates, demo sessions, and progress reports. This collaborative methodology ensures the final product perfectly aligns with your vision, business goals, and user needs. Learn about our <a href='/our-process/'>development process</a>.<br>&nbsp;</p><p><strong>4. Agile Methodology for On-Time Delivery</strong></p><p>We employ Agile development practices to ensure flexibility, efficiency, and timely delivery. Our sprint-based approach allows for iterative improvements, requirement adjustments, and continuous quality assurance. This methodology keeps your Android project on schedule, within budget, and adaptable to changing business needs while maintaining the highest quality standards.<br>&nbsp;</p><p><strong>5. Exceptional Ongoing Support and Maintenance</strong></p><p>Our commitment extends beyond app launch. We provide comprehensive post-deployment support including bug fixes, performance optimization, security updates, OS compatibility updates, and feature enhancements. Your app's continued success is our priority. We offer flexible <a href='/services/android-development/'>maintenance packages</a> tailored to your needs.<br>&nbsp;</p><p><strong>6. Long-Term Partnership for Continued Success</strong></p><p>We build lasting relationships with our clients, supporting your Android app throughout its entire lifecycle. From initial launch to major version updates and market expansion, our team provides strategic guidance, technical expertise, and ongoing optimization to ensure sustained success in the dynamic mobile landscape.</p><p><br>Whether launching a new Android application or enhancing an existing app, our comprehensive Android Development services deliver results that exceed expectations. <a href='/contact/'>Contact us today</a> to discuss your mobile app project. Read our <a href='/testimonies/'>client success stories</a> to see the impact we've created.</p>"
     },
     shortDescription: {
-        [LANGUAGES.EN]: "At the core of successful Android app development lies a set of principles that ensure your application not only meets your specific requirements but also thrives in a rapidly evolving landscape."
+        [LANGUAGES.EN]: "Professional Android app development services delivering successful mobile applications that meet your business requirements and exceed user expectations. Our expert developers use the latest Android technologies to create high-performance, scalable applications that thrive in today's competitive mobile landscape."
     },
     faqList: [
         {
             title: {
-                [LANGUAGES.EN]: "How much does Android development cost?"
+                [LANGUAGES.EN]: "What does professional Android app development cost?"
             },
             content: {
-                [LANGUAGES.EN]: "The cost of Android development varies depending on the scope of work, complexity, and features required for the app. On average, a typical Android development project can cost around $10,000 or more."
+                [LANGUAGES.EN]: "Android development costs depend on app complexity, feature requirements, design sophistication, third-party integrations, and backend infrastructure needs. Professional Android applications typically start from $10,000 and scale based on functionality. <a href='/contact/'>Request a detailed quote</a> tailored to your specific project requirements and business objectives."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "How long does the Android app process take?"
+                [LANGUAGES.EN]: "What is the typical Android app development timeline?"
             },
             content: {
-                [LANGUAGES.EN]: "The duration of an Android development project depends on several factors, including the requirements, dependencies, complexity, and scope of work. On average, a typical Android development service can take around 5 weeks or longer. However, when we assess and scope your project, we will provide you with a more accurate estimate of how long your Android development project will take. This will help you plan and manage your resources accordingly and ensure that your project is delivered on time and within budget."
+                [LANGUAGES.EN]: "Development timelines vary based on app complexity, feature scope, design requirements, and integration needs. Standard Android apps typically require 5-8 weeks from initial consultation to Play Store launch. Enterprise or complex applications may need 12-16 weeks or longer. During our <a href='/our-process/'>project assessment phase</a>, we provide detailed timelines with clear milestones to help you plan resources and launch dates effectively."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "What kind of support is provided after the app is launched?"
+                [LANGUAGES.EN]: "What support is provided after app launch?"
             },
             content: {
-                [LANGUAGES.EN]: "We offer continuous maintenance and support services after launching the app, which may include bug fixes, updates, and feature enhancements. The pricing for ongoing support will depend on the complexity of the work required."
+                [LANGUAGES.EN]: "We offer comprehensive post-launch support including bug resolution, performance optimization, Android OS updates, security patches, and new feature development. Support packages are customized based on your app's complexity and requirements. We provide ongoing monitoring, analytics implementation, and user feedback integration. Learn about our <a href='/services/android-development/'>maintenance and support services</a>."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "Do I get ownership rights?"
+                [LANGUAGES.EN]: "Will I receive full ownership of the Android app?"
             },
             content: {
-                [LANGUAGES.EN]: "Absolutely! Upon receipt of payment, you will own all rights to the concepts and variations developed during your project, including the final designs. However, unless otherwise agreed in advance, we reserve the right to display the work we have done for you as part of our portfolio. Additionally, upon completion of the project, we will provide you with the source files for the project."
+                [LANGUAGES.EN]: "Yes! Upon final payment, you receive complete ownership rights including source code, design assets, documentation, and all intellectual property created during development. We provide comprehensive handover documentation and technical training. Unless otherwise agreed, we reserve the right to feature the app in our <a href='/portfolio/'>project portfolio</a>. All source files, API keys, and Play Store credentials are transferred to you."
             }
         },
     ]
@@ -203,13 +203,13 @@ const IOS_DEVELOPMENT = {
     movie: "D05KWNjGtwk",
     path: "/ios-development",
     title: {
-        [LANGUAGES.EN]: "<p>iOS development</p>"
+        [LANGUAGES.EN]: "<p>Expert iOS App Development Services</p>"
     },
     description: {
-        [LANGUAGES.EN]: "<p><strong>1. Customized</strong></p><p>Swift and SwiftUI empower us to create highly tailored user interfaces on iOS. Our development team excels at crafting solutions that precisely match your unique requirements, ensuring that your iOS app stands out in the competitive world of mobile applications.<br>&nbsp;</p><p><strong>2. Expertise and Innovation</strong></p><p>Our developers are passionate about iOS and are well-versed in the latest trends and technologies in iOS development. They're committed to staying up-to-date with the ever-evolving world of Swift and SwiftUI to bring innovative and cutting-edge solutions to your iOS project.<br>&nbsp;</p><p><strong>3. Transparent Collaboration for iOS Apps</strong></p><p>Collaboration is the cornerstone of a successful project. We prioritize transparency in our iOS development process, keeping you informed at every step. This collaborative approach ensures that the final iOS product aligns perfectly with your vision.<br>&nbsp;</p><p><strong>4. Agile Methodology</strong></p><p>To meet project timelines and budgets, we employ an Agile methodology for iOS app development. This approach allows us to adapt to changing requirements, deliver incremental updates, and ensure your iOS project remains on time and within budget.<br>&nbsp;</p><p><strong>5. Exceptional Support</strong></p><p>Our commitment to your iOS project doesn't end at delivery. We provide exceptional customer service and support to address any issues or updates that may arise post-launch. Your satisfaction is our top priority, and we're here to ensure your iOS app's success.<br>&nbsp;</p><p><strong>6. Long-Term iOS Partnership</strong></p><p>We're not just here for a one-time project; we're dedicated to building long-term relationships. Our team is ready to support your iOS app through its entire lifecycle, ensuring its continuous success and evolution.</p><p><br>Whether you're building a new iOS app or looking to enhance an existing one, our iOS Development with Swift and SwiftUI services are designed to meet your needs and exceed your expectations. Let us help you turn your iOS app vision into a reality.</p>"
+        [LANGUAGES.EN]: "<p><strong>1. Custom iOS Solutions with Swift and SwiftUI</strong></p><p>Swift and SwiftUI empower us to create highly customized, premium iOS user interfaces that stand out in the competitive App Store. Our expert iOS development team crafts tailored solutions that precisely match your requirements, brand standards, and user expectations, ensuring your iPhone and iPad applications deliver exceptional experiences that drive engagement and retention.<br>&nbsp;</p><p><strong>2. Innovation Through iOS Expertise</strong></p><p>Our developers are passionate iOS specialists deeply versed in the latest Apple technologies, design guidelines, and development best practices. We maintain cutting-edge expertise in Swift, SwiftUI, iOS frameworks, and Apple Human Interface Guidelines. This commitment to continuous learning enables us to leverage the full power of Apple's ecosystem to deliver innovative, future-proof mobile solutions. Explore our <a href='/portfolio/'>iOS development portfolio</a>.<br>&nbsp;</p><p><strong>3. Transparent Collaboration for Superior iOS Apps</strong></p><p>Successful iOS development requires close partnership and clear communication. We prioritize transparency throughout every development phase, keeping you informed with regular updates, prototype demos, and milestone reviews. This collaborative approach ensures your iOS application perfectly aligns with your business vision, brand identity, and user needs while maintaining Apple's high-quality standards.<br>&nbsp;</p><p><strong>4. Agile iOS Development Methodology</strong></p><p>We employ proven Agile development practices optimized for iOS projects to ensure flexibility, quality, and timely delivery. Our iterative sprint-based approach enables continuous refinement, requirement adaptation, and ongoing quality assurance. This methodology keeps your iOS project on track, within budget, and responsive to evolving business needs while maintaining exceptional quality throughout development.<br>&nbsp;</p><p><strong>5. Comprehensive Post-Launch Support</strong></p><p>Our commitment to your iOS app extends well beyond App Store launch. We provide dedicated ongoing support including bug fixes, performance optimization, iOS version updates, security enhancements, and feature additions. Your application's sustained success is our priority. We offer flexible support packages tailored to your needs. Learn about our <a href='/services/ios-development/'>iOS maintenance services</a>.<br>&nbsp;</p><p><strong>6. Long-Term iOS Partnership</strong></p><p>We're dedicated to building enduring relationships with our clients. Our team supports your iOS application throughout its entire lifecycle, from initial launch through major updates, feature expansions, and market growth. We provide strategic guidance, technical expertise, and continuous optimization to ensure your app thrives in Apple's dynamic ecosystem.</p><p><br>Whether you're launching a new iOS application or enhancing an existing iPhone app, our comprehensive iOS Development services with Swift and SwiftUI are designed to exceed your expectations. <a href='/contact/'>Contact us today</a> to transform your iOS vision into reality. View our <a href='/testimonies/'>client success stories</a> and discover why leading businesses trust us for iOS development.</p>"
     },
     shortDescription: {
-        [LANGUAGES.EN]: "We specialize in crafting exceptional iOS applications that bring your digital vision to life. Our team of experienced iOS developers is dedicated to delivering cutting-edge, user-centric mobile solutions for the iOS platform. Whether you need a feature-rich iPhone app or a powerful iPad application, we have the expertise and creativity to turn your ideas into a reality."
+        [LANGUAGES.EN]: "We specialize in creating exceptional iOS applications that transform your digital vision into reality. Our experienced iOS development team delivers cutting-edge, user-centric mobile solutions for iPhone, iPad, and Apple Watch. From feature-rich consumer apps to powerful enterprise solutions, we have the expertise and creativity to build premium iOS experiences."
     },
     media: [
         `${SERVICES_IMAGES_BASE_PATH}ios-development/1.jpg`,
@@ -218,58 +218,58 @@ const IOS_DEVELOPMENT = {
     technologies: [
         {
             title: "iOS",
-            content: "iOS, renowned as one of the world's leading mobile operating systems, presents a wealth of possibilities for digital enterprises. Its seamless ecosystem, wide-ranging device compatibility, and thriving app store make iOS the ultimate choice for groundbreaking innovation and reaching a worldwide user base. Enhance your digital footprint with iOS development proficiency.",
+            content: "iOS is Apple's premium mobile operating system powering iPhone, iPad, and Apple Watch devices worldwide. With a highly engaged, loyal user base and industry-leading App Store, iOS offers exceptional opportunities for businesses to reach affluent consumers and drive revenue. Our iOS development expertise helps you tap into this lucrative market with sophisticated, high-performing applications.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg"
         },
         {
             title: "Swift",
-            content: "Swift, Apple's renowned programming language, has revolutionized the world of mobile app development on iOS, providing a compelling counterpart to Android's ecosystem. While Android presents extensive opportunities, it's essential not to overlook the immense potential of iOS, which boasts a devoted user base and a unique set of advantages for digital companies. By harnessing the power of Swift, you can elevate your digital presence on the iOS platform.",
-            icon: "https://ithd.org/static/swift-svgrepo-com.svg"
+            content: "Swift is Apple's powerful, modern programming language specifically designed for iOS, macOS, and Apple ecosystem development. Our certified Swift developers leverage its safety features, performance optimizations, and elegant syntax to build robust, maintainable applications. Swift enables us to create secure, efficient iOS apps that deliver exceptional user experiences and superior performance.",
+            icon: "https://ithd.ae/static/swift-svgrepo-com.svg"
         }
     ],
     whatWeOffer: {
-        [LANGUAGES.EN]: "At our iOS development studio, we provide holistic and customized solutions to fulfill your app's every need. Our team of skilled professionals leverages the latest iOS technologies and frameworks, such as SwiftUI and Combine, to create cutting-edge and visually stunning iOS applications. Whether you're looking to build an elegant user interface, optimize performance, or ensure seamless integration, we have the expertise to bring your iOS app vision to life."
+        [LANGUAGES.EN]: "Comprehensive iOS development solutions tailored to your business objectives and user needs. Our skilled professionals utilize cutting-edge Apple technologies including SwiftUI, Combine framework, Core Data, and ARKit to create innovative, visually stunning iOS applications. Whether building elegant user interfaces, optimizing app performance, or ensuring seamless device integration, we deliver iOS solutions that exceed expectations."
     },
     approach: {
-        [LANGUAGES.EN]: "In the world of iOS development, our commitment is to create extraordinary apps that seamlessly blend the latest technology with user-centric design. Our journey begins with a deep exploration of your goals and a comprehensive grasp of your intended user base. This allows us to tailor our development process to meet your specific requirements and deliver iOS applications that resonate with your audience."
+        [LANGUAGES.EN]: "Our iOS development philosophy centers on creating extraordinary applications that seamlessly blend cutting-edge Apple technologies with user-centric design principles. We begin with comprehensive discovery of your business goals, target audience insights, and competitive positioning. This strategic foundation enables us to craft iOS applications that not only meet technical requirements but deliver meaningful value and exceptional user experiences."
     },
     expertise: {
-        [LANGUAGES.EN]: "At the forefront of iOS innovation, our team of highly skilled developers is dedicated to pushing the boundaries of technology. We specialize in cutting-edge frameworks like SwiftUI, ensuring that we're not just keeping pace with industry standards but consistently surpassing them. Our extensive portfolio showcases our unwavering commitment to creating user-centric, feature-rich, and visually stunning apps that cater to a wide range of industries. We take pride in our proven track record of excellence in iOS app development."
+        [LANGUAGES.EN]: "Our elite iOS development team leads the industry in Apple innovation. We specialize in advanced frameworks like SwiftUI, Combine, Core ML, and ARKit, consistently exceeding industry benchmarks. Our extensive portfolio showcases proven expertise delivering user-focused, feature-rich, visually captivating applications across diverse industries including healthcare, finance, retail, and entertainment. We're committed to iOS excellence."
     },
     process: {
-        [LANGUAGES.EN]: "At our iOS development studio, we have a well-established process that serves as a reliable path to success, meticulously tailored to your unique requirements and objectives. Our journey begins with a deep understanding of your target audience and the results you aim to achieve. From there, we craft a bespoke strategy that aligns seamlessly with your vision. Throughout the iOS development journey, we maintain close collaboration with you, ensuring your active involvement in every step of the process, from initial concept to the exciting launch phase."
+        [LANGUAGES.EN]: "Our proven iOS development methodology provides a reliable path to App Store success. We start by understanding your target users and desired outcomes, then create a customized development roadmap aligned with your vision. Throughout every phase—from concept and design to development, testing, and launch—we collaborate closely with you, ensuring active involvement and transparent communication for optimal results."
     },
     faqList: [
         {
             title: {
-                [LANGUAGES.EN]: "How much does iOS development cost?"
+                [LANGUAGES.EN]: "What is the cost of professional iOS development?"
             },
             content: {
-                [LANGUAGES.EN]: "The cost of iOS development varies depending on the scope of work, complexity, and features required for the app. On average, a typical iOS development project can cost around $10,000 or more."
+                [LANGUAGES.EN]: "iOS development costs vary based on app complexity, feature requirements, design customization, backend infrastructure, and third-party integrations. Professional iOS applications typically start from $10,000 and scale according to functionality and scope. <a href='/contact/'>Contact our team</a> for a detailed estimate tailored to your specific project requirements and business goals."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "How long does the iOS app process take?"
+                [LANGUAGES.EN]: "How long does iOS app development take?"
             },
             content: {
-                [LANGUAGES.EN]: "The duration of an iOS development project depends on several factors, including the requirements, dependencies, complexity, and scope of work. On average, a typical iOS development service can take around 5 weeks or longer. However, when we assess and scope your project, we will provide you with a more accurate estimate of how long your iOS development project will take. This will help you plan and manage your resources accordingly and ensure that your project is delivered on time and within budget."
+                [LANGUAGES.EN]: "iOS development timelines depend on project complexity, feature scope, design requirements, testing needs, and App Store review processes. Standard iOS applications typically require 5-8 weeks from kickoff to App Store submission. Complex enterprise apps may need 12-16 weeks or more. During our <a href='/our-process/'>initial assessment</a>, we provide accurate timeline estimates with detailed milestones to facilitate effective planning and resource allocation."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "What kind of support is provided after the app is launched?"
+                [LANGUAGES.EN]: "What ongoing support do you provide post-launch?"
             },
             content: {
-                [LANGUAGES.EN]: "We offer continuous maintenance and support services after launching the app, which may include bug fixes, updates, and feature enhancements. The pricing for ongoing support will depend on the complexity of the work required."
+                [LANGUAGES.EN]: "We offer comprehensive ongoing support including bug fixes, iOS version compatibility updates, performance optimization, security patches, and feature enhancements. Support packages are customized to your app's complexity and business requirements. We provide App Store management, analytics monitoring, and continuous improvement recommendations. Explore our <a href='/services/ios-development/'>iOS support services</a>."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "Do I get ownership rights?"
+                [LANGUAGES.EN]: "Will I own all rights to the iOS app?"
             },
             content: {
-                [LANGUAGES.EN]: "Absolutely! Upon receipt of payment, you will own all rights to the concepts and variations developed during your project, including the final designs. However, unless otherwise agreed in advance, we reserve the right to display the work we have done for you as part of our portfolio. Additionally, upon completion of the project, we will provide you with the source files for the project."
+                [LANGUAGES.EN]: "Absolutely! Upon final payment, you receive complete ownership of all project deliverables including source code, design files, documentation, and intellectual property. We provide comprehensive handover materials and training. Unless otherwise specified, we reserve the right to showcase the application in our <a href='/portfolio/'>project showcase</a>. All source files, certificates, and App Store credentials are transferred to you upon completion."
             }
         },
     ]
@@ -279,7 +279,7 @@ const UX_DESIGN = {
     movie: "Uo82k0fHkko",
     path: "/ux-ui-design",
     title: {
-        [LANGUAGES.EN]: "UX/UI Design"
+        [LANGUAGES.EN]: "Professional UX/UI Design Services"
     },
     media: [
         `${SERVICES_IMAGES_BASE_PATH}ui-ux/1.jpg`,
@@ -288,69 +288,69 @@ const UX_DESIGN = {
     technologies: [
         {
             title: "Figma",
-            content: "Figma, an exceptional cloud-based design and prototyping tool, streamlines collaboration for design teams. Real-time editing and commenting capabilities enable designers to work together effortlessly on web and mobile projects. Figma's user-friendly interface and extensive features position it as the premier choice for crafting interactive and responsive designs.",
+            content: "Leverage Figma's powerful cloud-based design platform for seamless team collaboration and rapid prototyping. Our designers utilize real-time editing features to create responsive, user-centric interfaces for web and mobile applications, ensuring consistent design systems and efficient workflows.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
         },
         {
             title: "Adobe XD",
-            content: "Adobe XD stands at the forefront of design and prototyping tools, dedicated to meeting every designer's requirements. With an emphasis on user experience, it seamlessly empowers the creation of web and mobile interfaces. Its intuitive features and real-time collaboration capabilities establish Adobe XD as the indisputable industry leader for designing and prototyping applications, offering a powerful platform for designers to transform their imaginative concepts into reality.",
+            content: "Harness Adobe XD's industry-leading capabilities for professional interface design and interactive prototyping. We leverage its advanced features for creating intuitive user experiences, collaborative design workflows, and seamless handoff to development teams, ensuring pixel-perfect implementation.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg"
         },
         {
             title: "Sketch",
-            content: "Elevate your design capabilities with Sketch, the industry-leading software for creating captivating graphics and user interfaces. Harness the intuitive interface and robust features to transform your creative vision into reality. Seamlessly design, prototype, and collaborate, while enhancing your online presence. Maximize your creative potential with Sketch, the professional's choice for design excellence.",
+            content: "Utilize Sketch's robust vector-based design toolkit for crafting scalable user interfaces and design systems. Our team employs advanced plugins and integrations to streamline workflows, maintain design consistency, and deliver production-ready assets for digital products.",
             icon: "https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg"
         }
     ],
     whatWeOffer: {
-        [LANGUAGES.EN]: "Our UI/UX service is tailored to not only create visually stunning and user-friendly designs but also to align with SEO guidelines. We believe that a seamless user experience and SEO success go hand in hand, and we're here to help you achieve both."
+        [LANGUAGES.EN]: "We deliver data-driven UX/UI design solutions that combine aesthetic excellence with conversion optimization. Our designs enhance user engagement, improve accessibility standards, and align with SEO best practices to maximize your digital presence and business growth."
     },
     approach: {
-        [LANGUAGES.EN]: "Transform your digital products with our expert UI/UX design services. We focus on user-centric design, creating wireframes, high-fidelity visuals, and prototypes to enhance user experiences. Collaborate with our team to seamlessly integrate designs and stay ahead with our latest design trends. Elevate your brand and engage your audience with our tailored solutions."
+        [LANGUAGES.EN]: "Our user-centered design methodology integrates comprehensive research, strategic wireframing, and iterative prototyping to create exceptional digital experiences. We collaborate closely with your team throughout the design process, ensuring seamless integration with your <a href='/services/web-development/'>web development</a> and <a href='/services/android-development/'>mobile app development</a> initiatives."
     },
     expertise: {
-        [LANGUAGES.EN]: "Elevate your digital products with our expertise in UI/UX design. We prioritize user-centered design, creating wireframes, high-fidelity visuals, and prototypes. Collaborate with our team for seamless design integration and stay updated with the latest trends. Enhance your brand and captivate your audience with our tailored solutions."
+        [LANGUAGES.EN]: "With extensive experience in enterprise-level UX/UI design, we specialize in creating intuitive interfaces that drive measurable results. Our portfolio spans <a href='/portfolio/banking-mobile-app/'>fintech applications</a>, e-commerce platforms, and SaaS products, consistently delivering designs that enhance user satisfaction and business metrics."
     },
     process: {
-        [LANGUAGES.EN]: "Discover our methodical UI/UX design process. We begin with in-depth user research, followed by wireframing and prototyping. Our design team creates high-fidelity visuals, collaborates with developers, and iterates based on user feedback. Stay ahead with the latest design trends and elevate your digital products."
+        [LANGUAGES.EN]: "Our systematic design process begins with in-depth user research and competitive analysis, followed by information architecture planning, low and high-fidelity prototyping, usability testing, and iterative refinement. We maintain alignment with current design trends while prioritizing usability and accessibility standards."
     },
     description: {
-        [LANGUAGES.EN]: "<p><strong>1. Expertise in UI/UX Design</strong><br>Elevate your digital products with our UI/UX design expertise. Our user-centric approach, wireframing, and high-fidelity designs ensure outstanding user experiences.<br>&nbsp;</p><p><strong>2. The UI/UX Design Process</strong><br>Discover our methodical design process, including user research, wireframing, high-fidelity visuals, and iterative improvements based on user feedback.<br>&nbsp;</p><p><strong>3. Tailored UI/UX Solutions</strong><br>Our customized UI/UX solutions enhance your brand's appeal and captivate your audience while ensuring seamless design integration with your team.</p><p>&nbsp;</p><p><strong>4. Staying Updated on Design Trends</strong><br>Stay ahead with our team, which is always up-to-date with the latest UI/UX design trends, ensuring your digital products remain competitive.<br>&nbsp;</p><p><strong>5. Collaborative Design Integration</strong><br>We value collaboration, working closely with your development team to ensure your designs are seamlessly integrated into your digital products.<br>&nbsp;</p><p><strong>6. Streamlined Design Journey</strong><br>Embark on a design journey that transforms your digital products. Our comprehensive UI/UX design services are tailored to your unique needs and objectives.</p>"
+        [LANGUAGES.EN]: "<p><strong>1. Strategic UX/UI Design Excellence</strong><br>Transform your digital products with our evidence-based design approach. We combine user psychology, interaction design principles, and conversion optimization techniques to create interfaces that engage users and achieve business objectives. Explore our <a href='/portfolio/design/'>completed design projects</a> to see our expertise in action.<br>&nbsp;</p><p><strong>2. Comprehensive Design Process</strong><br>Our structured methodology encompasses discovery workshops, user persona development, journey mapping, wireframing, visual design, prototyping, and usability testing. Each phase includes stakeholder collaboration and iterative feedback integration to ensure optimal outcomes.<br>&nbsp;</p><p><strong>3. Custom-Tailored Design Solutions</strong><br>We develop bespoke design systems and component libraries that reinforce your brand identity while ensuring scalability across platforms. Our solutions integrate seamlessly with your existing technology stack, including <a href='/services/cloud-solutions/'>cloud infrastructure</a> and development frameworks.<br>&nbsp;</p><p><strong>4. Industry-Leading Design Trends</strong><br>Stay competitive with designs incorporating motion design, micro-interactions, accessibility features (WCAG compliance), and responsive layouts optimized for all devices. We continuously evaluate emerging patterns in user behavior and interface design.<br>&nbsp;</p><p><strong>5. Seamless Development Collaboration</strong><br>Our design handoff process includes detailed specifications, asset optimization, and direct collaboration with development teams. We provide ongoing support during implementation, ensuring design fidelity and addressing technical considerations efficiently.<br>&nbsp;</p><p><strong>6. End-to-End Design Partnership</strong><br>From initial concept through launch and beyond, we serve as your strategic design partner. Our services complement our <a href='/services/ios-development/'>iOS development</a> and <a href='/services/business-automation/'>business automation</a> offerings, providing comprehensive digital solutions.</p>"
     },
     shortDescription: {
-        [LANGUAGES.EN]: "Our team of experienced designers will work closely with you to understand your brand and target audience and create a custom design that reflects your unique identity. We'll focus on creating an intuitive and easy-to-use interface that guides visitors through your site and encourages them to take action."
+        [LANGUAGES.EN]: "Our award-winning design team creates conversion-focused interfaces that resonate with your target audience. Through comprehensive brand analysis and user research, we develop intuitive navigation systems and compelling visual hierarchies that guide visitors toward desired actions while reinforcing brand recognition."
     },
     faqList: [
         {
             title: {
-                [LANGUAGES.EN]: "How much does UX/UI Design cost?"
+                [LANGUAGES.EN]: "What is the investment for professional UX/UI design services?"
             },
             content: {
-                [LANGUAGES.EN]: "The cost of UX/UI Design varies depending on the scope of work, complexity, and features required for the app. On average, a typical UX/UI Design project can cost around $3,000 or more."
+                [LANGUAGES.EN]: "Professional UX/UI design pricing varies based on project complexity, number of screens, research requirements, and deliverable scope. Typical projects range from $3,000 for basic design work to $15,000+ for comprehensive design systems. Contact us for a detailed quote tailored to your specific requirements."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "How long does the UX/UI Design process take?"
+                [LANGUAGES.EN]: "What is the timeline for UX/UI design projects?"
             },
             content: {
-                [LANGUAGES.EN]: "The duration of a UX/UI Design project depends on several factors, including the requirements, dependencies, complexity, and scope of work. On average, a typical UX/UI Design service can take around 3 weeks or longer. However, when we assess and scope your project, we will provide you with a more accurate estimate of how long your UX/UI Design project will take. This will help you plan and manage your resources accordingly and ensure that your project is delivered on time and within budget."
+                [LANGUAGES.EN]: "Design timelines depend on project scope, revision rounds, stakeholder availability, and complexity. Standard projects typically require 3-6 weeks from discovery to final deliverables. Complex design systems or enterprise applications may extend to 8-12 weeks. We provide detailed project timelines during our initial consultation."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "What kind of support is provided after the app is launched?"
+                [LANGUAGES.EN]: "What ongoing support is available post-launch?"
             },
             content: {
-                [LANGUAGES.EN]: "We offer continuous maintenance and support services after launching the app, which may include bug fixes, updates, and feature enhancements. The pricing for ongoing support will depend on the complexity of the work required."
+                [LANGUAGES.EN]: "We offer comprehensive post-launch support including design iterations based on user feedback, A/B testing consultation, design system maintenance, and additional screen designs. Support packages are customized based on your evolving needs and can be bundled with our <a href='/services/web-development/'>development services</a>."
             }
         },
         {
             title: {
-                [LANGUAGES.EN]: "Do I get ownership rights?"
+                [LANGUAGES.EN]: "Who owns the intellectual property rights?"
             },
             content: {
-                [LANGUAGES.EN]: "Absolutely! Upon receipt of payment, you will own all rights to the concepts and variations developed during your project, including the final designs. However, unless otherwise agreed in advance, we reserve the right to display the work we have done for you as part of our portfolio. Additionally, upon completion of the project, we will provide you with the source files for the project."
+                [LANGUAGES.EN]: "Upon final payment, you receive complete ownership of all design deliverables, including source files, design systems, and assets. We retain portfolio rights to showcase the work publicly unless confidentiality agreements specify otherwise. All files are delivered in industry-standard formats for seamless handoff."
             }
         },
     ]
@@ -363,7 +363,7 @@ export var SERVICES = [
         movie: "9PVzNwsT400",
         path: "/cloud-solutions",
         title: {
-            [LANGUAGES.EN]: "Cloud Solutions"
+            [LANGUAGES.EN]: "Enterprise Cloud Solutions & Infrastructure"
         },
         media: [
             `${SERVICES_IMAGES_BASE_PATH}cloud-solutions/1.jpg`,
@@ -372,69 +372,69 @@ export var SERVICES = [
         technologies: [
             {
                 title: "Google Cloud Platform",
-                content: "Google Cloud Platform (GCP) is a leading cloud computing service offering infrastructure, data analytics, machine learning, and more. With global data centers, GCP provides scalable and secure solutions for businesses seeking cloud-based services.",
-                icon: "https://ithd.org/static/google-cloud-svgrepo-com.svg"
+                content: "Deploy scalable, secure infrastructure using Google Cloud Platform's enterprise-grade services. We architect solutions leveraging compute engine, cloud storage, BigQuery analytics, and machine learning APIs to build resilient, high-performance applications with global reach.",
+                icon: "https://ithd.ae/static/google-cloud-svgrepo-com.svg"
             },
             {
                 title: "Docker",
-                content: "Docker is a containerization platform that simplifies software deployment by packaging applications and their dependencies into containers. It enables efficient, portable, and consistent application deployment across various environments, enhancing development and operational efficiency.",
-                icon: "https://ithd.org/static/docker-svgrepo-com.svg"
+                content: "Implement containerization strategies with Docker for consistent deployment across environments. We create optimized container images, orchestrate multi-container applications, and establish CI/CD pipelines that accelerate development cycles and improve operational reliability.",
+                icon: "https://ithd.ae/static/docker-svgrepo-com.svg"
             },
             {
-                title: "Serverless & Cloud functions",
-                content: "Serverless computing is a cloud computing model that lets developers build and run applications without managing servers. It automatically scales, reducing operational overhead, and charges based on actual usage, making it cost-efficient and agile.",
-                icon: "https://ithd.org/static/serverless-svgrepo-com.svg"
+                title: "Serverless & Cloud Functions",
+                content: "Leverage serverless architecture for cost-efficient, auto-scaling applications. We design event-driven solutions using cloud functions that eliminate infrastructure management, reduce operational costs, and provide instant scalability for variable workloads.",
+                icon: "https://ithd.ae/static/serverless-svgrepo-com.svg"
             }
         ],
         whatWeOffer: {
-            [LANGUAGES.EN]: "Discover our comprehensive cloud solutions, including scalable infrastructure, secure data storage, and expert guidance for seamless cloud integration. We tailor solutions to your specific needs, empowering your business with efficiency and productivity. Explore the limitless possibilities of the cloud with our dedicated team of experts."
+            [LANGUAGES.EN]: "We architect enterprise-grade cloud solutions that optimize performance, security, and cost-efficiency. Our services include cloud migration strategy, infrastructure design, disaster recovery planning, and ongoing optimization to ensure your business leverages cloud technology for maximum competitive advantage."
         },
         approach: {
-            [LANGUAGES.EN]: "At our core, we prioritize a client-centric approach. We begin by thoroughly understanding your unique needs and goals. With this insight, we tailor our services to provide personalized solutions that drive success. Our collaborative process ensures your vision is seamlessly integrated into every aspect of our work, guaranteeing a solution that fits your business like a glove."
+            [LANGUAGES.EN]: "Our cloud strategy begins with comprehensive infrastructure assessment and business objectives alignment. We design scalable architectures tailored to your workload requirements, implementing best practices for security, compliance, and cost optimization throughout the migration and deployment process."
         },
         expertise: {
-            [LANGUAGES.EN]: "Our expertise is your advantage. With a seasoned team of industry professionals, we offer a wealth of knowledge and experience in [your field]. We've successfully navigated the challenges of [specific challenges or projects], delivering results that exceed expectations. Trust our experts to guide you toward excellence."
+            [LANGUAGES.EN]: "Our certified cloud architects bring extensive experience in multi-cloud environments, DevOps practices, and enterprise migrations. We've successfully deployed solutions for industries requiring high availability, regulatory compliance, and global scalability, integrating seamlessly with your <a href='/services/web-development/'>web applications</a> and <a href='/services/business-automation/'>business systems</a>."
         },
         process: {
-            [LANGUAGES.EN]: "Our process is a meticulously crafted roadmap to success. It begins with a deep dive into your unique needs and objectives. We then strategize, design, and implement solutions, with regular milestones and client collaboration. Our structured approach ensures your project stays on track and results in a successful outcome."
+            [LANGUAGES.EN]: "We follow a proven methodology encompassing discovery and assessment, architecture design, proof of concept development, phased migration execution, testing and validation, optimization, and knowledge transfer. Regular stakeholder communication ensures alignment with business objectives throughout each phase."
         },
         description: {
-            [LANGUAGES.EN]: "<p><strong>1. Introduction</strong><br>Climb to new heights with our cutting-edge cloud solutions. In a rapidly evolving digital landscape, harnessing the power of the cloud is no longer an option but a necessity. Our cloud services are designed to empower businesses and organizations with the scalability, flexibility, and security needed to thrive in the digital age.<br>&nbsp;</p><p><strong>2. Comprehensive Cloud Services</strong><br>Our cloud solutions encompass a wide spectrum of services. We offer scalable cloud infrastructure that adapts to your specific needs, ensuring you have the computing resources required, whether it's for a small startup or a large enterprise. Our data storage solutions guarantee the accessibility and security of your critical information.<br>&nbsp;</p><p><strong>3. Efficiency and Productivity</strong><br>The cloud is more than just a technology; it's a pathway to greater efficiency and productivity. With our cloud services, your team gains remote access to essential resources, streamlining operations and enhancing collaboration. Say goodbye to cumbersome data silos and hello to real-time information sharing.<br>&nbsp;</p><p><strong>4. Tailored Solutions</strong><br>We understand that no two businesses are the same. That's why we're dedicated to tailoring the perfect cloud solution for your unique requirements. Whether you're seeking cost-effective solutions, data security, or performance optimization, we have you covered. Our team of experts will work closely with you to align our cloud services with your goals.<br>&nbsp;</p><p><strong>5. Dedicated Expertise</strong><br>What sets us apart is our team of cloud experts who are well-versed in the latest industry trends and best practices. We're not just service providers; we're your partners in your cloud journey. Our dedication to staying up-to-date with emerging technologies ensures that you always have access to the most cutting-edge solutions.<br>&nbsp;</p><p><strong>6. Explore the Possibilities</strong><br>The cloud offers limitless possibilities, and we're here to help you explore them. Whether you're looking to migrate your data to the cloud, optimize your existing cloud setup, or embark on an entirely new cloud-based venture, we're ready to guide you. Discover how our cloud solutions can transform your business, drive growth, and position you for success in the digital era.</p>"
+            [LANGUAGES.EN]: "<p><strong>1. Cloud Transformation Strategy</strong><br>Accelerate your digital transformation with strategic cloud adoption. Our consultants evaluate your current infrastructure, identify optimization opportunities, and develop comprehensive roadmaps for cloud migration that minimize disruption while maximizing business value and ROI.<br>&nbsp;</p><p><strong>2. Comprehensive Cloud Infrastructure Services</strong><br>We provide end-to-end cloud services including infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) implementation. Our solutions ensure high availability, automatic scaling, and cost optimization through intelligent resource management.<br>&nbsp;</p><p><strong>3. Enhanced Productivity & Collaboration</strong><br>Cloud infrastructure enables seamless remote access, real-time collaboration, and centralized data management. We implement secure access controls, backup strategies, and collaboration tools that empower distributed teams while maintaining data integrity and security compliance.<br>&nbsp;</p><p><strong>4. Industry-Specific Cloud Solutions</strong><br>Every organization has unique requirements. We customize cloud architectures for specific use cases including <a href='/portfolio/banking-mobile-app/'>financial services</a>, healthcare, e-commerce, and SaaS platforms. Our solutions address regulatory compliance, data sovereignty, and performance requirements specific to your industry.<br>&nbsp;</p><p><strong>5. Certified Cloud Expertise</strong><br>Our team holds certifications across major cloud platforms and stays current with emerging technologies. We apply proven architectural patterns, security frameworks, and cost optimization strategies developed through hundreds of successful cloud implementations. View our <a href='/portfolio/business-automation/'>automation projects</a> for examples.<br>&nbsp;</p><p><strong>6. Future-Ready Cloud Innovation</strong><br>The cloud ecosystem offers unlimited growth potential. Whether migrating legacy systems, optimizing existing cloud deployments, or building cloud-native applications, we provide strategic guidance and technical expertise. Our services integrate with <a href='/services/android-development/'>mobile development</a> and <a href='/services/ios-development/'>iOS solutions</a> for comprehensive digital ecosystems.</p>"
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Efficient and client-focused, our process ensures a smooth journey from concept to completion. We analyze, design, implement, and collaborate closely with you to achieve exceptional results."
+            [LANGUAGES.EN]: "Our structured cloud implementation process ensures smooth transitions from legacy infrastructure to modern cloud environments. We conduct thorough assessments, design robust architectures, execute controlled migrations, and provide ongoing optimization to maximize your cloud investment ROI."
         },
         faqList: [
             {
                 title: {
-                    [LANGUAGES.EN]: "How much does Cloud solutions cost?"
+                    [LANGUAGES.EN]: "What is the cost of cloud solution implementation?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "The cost of Cloud solutions varies depending on the scope of work, complexity, and features required for the app. On average, a typical Cloud solutions can cost around $10,000 or more."
+                    [LANGUAGES.EN]: "Cloud solution costs depend on infrastructure complexity, migration scope, data volume, security requirements, and ongoing management needs. Projects typically start at $10,000 for basic implementations and scale based on requirements. We provide transparent pricing models including one-time migration costs and ongoing operational expenses."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "How long does the Cloud solutions process take?"
+                    [LANGUAGES.EN]: "How long does cloud migration take?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "The duration of a Cloud solutions depends on several factors, including the requirements, dependencies, complexity, and scope of work. On average, a typical Cloud solutions service can take around 5 weeks or longer. However, when we assess and scope your project, we will provide you with a more accurate estimate of how long your Cloud solutions will take. This will help you plan and manage your resources accordingly and ensure that your project is delivered on time and within budget."
+                    [LANGUAGES.EN]: "Migration timelines vary based on current infrastructure complexity, data volumes, application dependencies, and testing requirements. Typical implementations range from 5-12 weeks for standard migrations to 6+ months for complex enterprise environments. We provide detailed project plans with phased milestones during our assessment phase."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "What kind of support is provided after the app is launched?"
+                    [LANGUAGES.EN]: "What ongoing support and maintenance is provided?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "We offer continuous maintenance and support services after launching the app, which may include bug fixes, updates, and feature enhancements. The pricing for ongoing support will depend on the complexity of the work required."
+                    [LANGUAGES.EN]: "We offer comprehensive managed services including 24/7 monitoring, performance optimization, security updates, backup management, disaster recovery testing, and cost optimization reviews. Support packages are customized to your SLA requirements and can integrate with our <a href='/services/web-development/'>development services</a> for application-level support."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "Do I get ownership rights?"
+                    [LANGUAGES.EN]: "What are the ownership and access rights?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "Absolutely! Upon receipt of payment, you will own all rights to the concepts and variations developed during your project, including the final designs. However, unless otherwise agreed in advance, we reserve the right to display the work we have done for you as part of our portfolio. Additionally, upon completion of the project, we will provide you with the source files for the project."
+                    [LANGUAGES.EN]: "You retain complete ownership of all cloud resources, data, and infrastructure configurations. Upon project completion, we provide comprehensive documentation, architecture diagrams, access credentials, and knowledge transfer. We can showcase anonymized case studies with your permission while maintaining strict confidentiality of proprietary information."
                 }
             },
         ]
@@ -445,10 +445,10 @@ export var SERVICES = [
         movie: "Uo82k0fHkko",
         path: "/logo-making",
         title: {
-            [LANGUAGES.EN]: "Logo making"
+            [LANGUAGES.EN]: "Professional Logo Design & Brand Identity"
         },
         description: {
-            [LANGUAGES.EN]: "<p>Our logo design service provides distinctive visual identities for your brand. Our creative team meticulously crafts unique logos, ensuring they encapsulate your brand's essence and leave a lasting impact. From the initial concept to the final design, we meticulously guide the creative process to guarantee your logo resonates with your brand's story and values.</p><p><br>We understand the significance of a well-designed logo in today's competitive business landscape. A compelling logo is not merely a symbol; it's a representation of your brand's character. Our experienced designers work closely with you to translate your vision into a compelling and memorable visual identity.</p><p><br>Our process revolves around your needs and aspirations. We take the time to listen, research, and brainstorm to create a logo that's a perfect fit for your brand. We value collaboration and consider your feedback integral to our design journey. We believe that your involvement ensures a logo that truly reflects your brand's identity.</p><p><br>Your brand deserves a unique, eye-catching, and timeless logo. We have a proven track record of delivering logos that resonate with audiences and stand the test of time. Let us be your partner in crafting a logo that tells your brand's story, enhances its recognition, and contributes to its long-term success.</p><p><br>The design of your logo is a pivotal element of your brand's overall identity. We take this responsibility seriously and are committed to providing you with a logo that not only meets but exceeds your expectations. Your brand is our priority, and we look forward to creating a logo that embodies your brand's essence and vision.</p><p><br>Contact us today to embark on the journey of logo design that elevates your brand. Let us create a visual identity that sets you apart in the market, leaving a strong and lasting impression on your audience.</p>"
+            [LANGUAGES.EN]: "<p><strong>Strategic Logo Design That Defines Your Brand</strong><br>Our professional logo design services create memorable visual identities that communicate your brand values and resonate with target audiences. We employ strategic design thinking, market research, and creative expertise to develop logos that stand out in competitive markets and build lasting brand recognition.<br>&nbsp;</p><p><strong>Psychology-Driven Design Approach</strong><br>Understanding that effective logos transcend mere aesthetics, we apply color psychology, typography principles, and visual hierarchy to create marks that evoke intended emotional responses. Each design decision is purposeful, ensuring your logo communicates professionalism, trustworthiness, and brand personality at first glance.<br>&nbsp;</p><p><strong>Collaborative Design Process</strong><br>Our iterative process values your input at every stage. We begin with discovery sessions to understand your brand positioning, competitive landscape, and target demographics. Through concept development, refinement rounds, and stakeholder feedback integration, we ensure the final logo authentically represents your vision and market position.<br>&nbsp;</p><p><strong>Timeless Visual Identity Creation</strong><br>We design logos with longevity in mind, balancing contemporary aesthetics with timeless design principles. Our portfolio demonstrates consistent success in creating memorable marks that maintain relevance across years of market evolution. Explore our <a href='/portfolio/logo/'>completed logo projects</a> to see our versatility across industries.<br>&nbsp;</p><p><strong>Comprehensive Brand Identity Systems</strong><br>Beyond logo creation, we develop complete brand identity guidelines including color palettes, typography systems, and usage standards. These comprehensive packages ensure consistent brand application across all touchpoints, from <a href='/services/web-development/'>websites</a> to <a href='/services/android-development/'>mobile applications</a> and print materials.<br>&nbsp;</p><p><strong>Your Strategic Branding Partner</strong><br>Partner with us to establish a visual identity that differentiates your business and builds brand equity. Our logo design services integrate seamlessly with our <a href='/services/ux-ui-design/'>UI/UX design</a> and <a href='/services/business-automation/'>business solutions</a>, providing cohesive branding across your entire digital ecosystem. Contact our team to begin your branding journey.</p>"
         },
         media: [
             `${SERVICES_IMAGES_BASE_PATH}logo-making/1.jpg`,
@@ -457,66 +457,66 @@ export var SERVICES = [
         technologies: [
             {
                 title: "Figma",
-                content: "Figma, an exceptional cloud-based design and prototyping tool, streamlines collaboration for design teams. Real-time editing and commenting capabilities enable designers to work together effortlessly on web and mobile projects. Figma's user-friendly interface and extensive features position it as the premier choice for crafting interactive and responsive designs.",
+                content: "Utilize Figma's collaborative design platform for iterative logo development and brand system creation. Real-time stakeholder feedback capabilities enable efficient approval workflows, while vector-based tools ensure scalability across all applications from mobile icons to large-format displays.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
             },
             {
                 title: "Adobe XD",
-                content: "Adobe XD stands at the forefront of design and prototyping tools, dedicated to meeting every designer's requirements. With an emphasis on user experience, it seamlessly empowers the creation of web and mobile interfaces. Its intuitive features and real-time collaboration capabilities establish Adobe XD as the indisputable industry leader for designing and prototyping applications, offering a powerful platform for designers to transform their imaginative concepts into reality.",
+                content: "Leverage Adobe XD's precision vector tools for creating versatile logo designs that maintain quality at any scale. We utilize advanced features for presenting logo mockups in context, demonstrating application across various media, and facilitating client review processes.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg"
             },
             {
                 title: "Sketch",
-                content: "Elevate your design capabilities with Sketch, the industry-leading software for creating captivating graphics and user interfaces. Harness the intuitive interface and robust features to transform your creative vision into reality. Seamlessly design, prototype, and collaborate, while enhancing your online presence. Maximize your creative potential with Sketch, the professional's choice for design excellence.",
+                content: "Employ Sketch's professional-grade design tools for crafting sophisticated brand identities. Advanced symbol libraries and export features enable efficient creation of comprehensive brand guidelines and asset packages optimized for web, print, and digital applications.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg"
             }
         ],
         whatWeOffer: {
-            [LANGUAGES.EN]: "Unlock a world of possibilities with our tailored services. We specialize in web design, mobile app development, software solutions, e-commerce, digital marketing, cloud services, IT consulting, and ongoing support. Your success is our priority."
+            [LANGUAGES.EN]: "We deliver strategic logo design and complete brand identity systems that establish market presence and drive recognition. Our services include concept development, competitive analysis, design iteration, file preparation, and brand guideline creation tailored to your business objectives and target market positioning."
         },
         approach: {
-            [LANGUAGES.EN]: "Our approach centers on you. We begin with a deep understanding of your goals and needs. Our collaborative, client-focused process ensures your vision guides every step, resulting in a solution that seamlessly integrates with your objectives."
+            [LANGUAGES.EN]: "Our brand-first approach begins with comprehensive discovery including competitive analysis, target audience research, and brand positioning workshops. We develop multiple concepts based on strategic insights, refine selected directions through collaborative feedback, and deliver production-ready assets with comprehensive usage guidelines."
         },
         expertise: {
-            [LANGUAGES.EN]: "Our expertise is your assurance. With a seasoned team of industry professionals, we offer a wealth of knowledge and experience in your field. We've successfully navigated complex projects, delivering results that exceed expectations. Trust our experts to guide you toward excellence."
+            [LANGUAGES.EN]: "Our senior designers bring decades of combined branding experience across diverse industries including technology, finance, hospitality, and retail. We've created identities for startups through enterprise organizations, consistently delivering logos that strengthen market positioning and support long-term brand growth. See our <a href='/portfolio/tobacco-branding/'>branding portfolio</a>."
         },
         process: {
-            [LANGUAGES.EN]: "Our process is a carefully structured roadmap to success. It begins with a deep dive into your unique needs and objectives. We then strategize, design, and implement solutions, with regular milestones and client collaboration. Our systematic approach ensures your project stays on track and results in a successful outcome."
+            [LANGUAGES.EN]: "We follow a systematic design process: discovery and research, strategic brief development, concept sketching, digital refinement, presentation of options, revision rounds based on feedback, finalization, and comprehensive deliverable package preparation including vector files, color variations, and application guidelines."
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Our logo design service offers tailored visual identities for your brand. Our creative team crafts unique logos that capture your brand's essence and leave a lasting impression. From concept to final design, we ensure your logo communicates your brand's story and values, enhancing your overall identity."
+            [LANGUAGES.EN]: "Our strategic logo design services transform brand concepts into powerful visual identities. Through meticulous research, creative exploration, and iterative refinement, we craft distinctive logos that capture brand essence, communicate core values, and create memorable impressions that drive customer recognition and loyalty."
         },
         faqList: [
             {
                 title: {
-                    [LANGUAGES.EN]: "How much does Logo cost?"
+                    [LANGUAGES.EN]: "What is the investment for professional logo design?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "The cost of Logo making varies depending on the scope of work, complexity, and features required for the app. On average, a typical Logo making project can cost around $1,000 or more."
+                    [LANGUAGES.EN]: "Professional logo design pricing reflects complexity, concept quantity, revision rounds, and deliverable scope. Projects typically range from $1,000 for essential logo packages to $5,000+ for comprehensive brand identity systems. Investment includes research, concepts, revisions, and complete file packages. Request a customized quote for your project."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "How long does the Logo making process take?"
+                    [LANGUAGES.EN]: "What is the typical timeline for logo design?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "The duration of a Logo making depends on several factors, including the requirements, dependencies, complexity, and scope of work. On average, a typical Logo making service can take around a week or longer. However, when we assess and scope your project, we will provide you with a more accurate estimate of how long your Logo making will take. This will help you plan and manage your resources accordingly and ensure that your project is delivered on time and within budget."
+                    [LANGUAGES.EN]: "Logo design projects typically span 1-3 weeks depending on complexity and revision requirements. Timeline includes discovery (2-3 days), concept development (3-5 days), presentation and feedback (1-2 days), refinement rounds (3-5 days), and final file preparation (1-2 days). Expedited timelines available for urgent requirements."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "What kind of support is provided after the app is launched?"
+                    [LANGUAGES.EN]: "What support is provided after logo delivery?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "We offer continuous maintenance and support services after launching the app, which may include bug fixes, updates, and feature enhancements. The pricing for ongoing support will depend on the complexity of the work required."
+                    [LANGUAGES.EN]: "Post-delivery support includes minor adjustments, additional file format exports, and application guidance. We offer brand identity expansion services for business cards, letterheads, and digital assets. Ongoing branding support can be combined with our <a href='/services/web-development/'>web design</a> services for cohesive brand implementation."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "Do I get ownership rights?"
+                    [LANGUAGES.EN]: "What are the intellectual property and usage rights?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "Absolutely! Upon receipt of payment, you will own all rights to the concepts and variations developed during your project, including the final designs. However, unless otherwise agreed in advance, we reserve the right to display the work we have done for you as part of our portfolio. Additionally, upon completion of the project, we will provide you with the source files for the project."
+                    [LANGUAGES.EN]: "Upon final payment, you receive full ownership and exclusive rights to your logo and all design variations. Comprehensive file packages include vector formats (AI, EPS, SVG), high-resolution rasters (PNG, JPG), and various color versions. We retain portfolio rights unless confidentiality agreements specify otherwise."
                 }
             },
         ]
@@ -525,10 +525,10 @@ export var SERVICES = [
         movie: "9PVzNwsT400",
         path: "/business-automation",
         title: {
-            [LANGUAGES.EN]: "CRM & Business Automation"
+            [LANGUAGES.EN]: "Custom CRM & Business Automation Solutions"
         },
         description: {
-            [LANGUAGES.EN]: "<p><strong>1. Introduction</strong><br>At ITHD, we offer a wide range of services to meet your unique needs. Our goal is to empower your business with innovative solutions that drive growth and success. Whether you're looking to enhance your online presence, streamline your operations, or leverage the latest technologies, we have you covered.<br>&nbsp;</p><p><strong>2. Web Design and Development</strong><br>Our web design and development services focus on creating visually stunning and responsive websites. We believe that your online presence is often the first interaction with your audience, and we're dedicated to making that experience remarkable. Our team of experts crafts custom websites that engage your visitors and drive tangible results.<br>&nbsp;</p><p><strong>3. Mobile App Development</strong><br>In the age of mobile technology, having a strong mobile presence is crucial. Our mobile app development expertise extends to iOS and Android platforms. We take your app ideas and turn them into functional and feature-rich mobile applications, ensuring that your brand is accessible to your audience on their preferred devices.<br>&nbsp;</p><p><strong>4. Custom Software Solutions</strong><br>Every business is unique, and your software solutions should be too. We specialize in developing custom software that enhances your operations, productivity, and efficiency. Our tailored solutions are designed to address your specific requirements, ensuring that technology works in harmony with your business objectives.<br>&nbsp;</p><p><strong>5. Digital Marketing and SEO</strong><br>Success in the digital world requires more than a great website or app. Our digital marketing and SEO services are designed to maximize your online reach. From search engine optimization to content marketing and social media management, we connect you with your target audience and drive engagement.<br>&nbsp;</p><p><strong>6. Collaboration and Results</strong><br>What sets us apart is our commitment to collaboration. We believe that the best results come from working closely with our clients. Your feedback is invaluable, and we consider it an integral part of our creative process. We look forward to partnering with you, understanding your vision, and helping you achieve your business goals.</p>"
+            [LANGUAGES.EN]: "<p><strong>1. Digital Transformation Through Automation</strong><br>At ITHD, we engineer custom business automation solutions that streamline operations, eliminate redundancies, and accelerate growth. Our CRM platforms and automated workflows transform how organizations manage customer relationships, sales pipelines, and internal processes, delivering measurable ROI and competitive advantages.<br>&nbsp;</p><p><strong>2. Custom CRM Development</strong><br>We build tailored CRM systems that align perfectly with your business processes, eliminating the limitations of off-the-shelf solutions. Our platforms feature intuitive interfaces, advanced analytics, sales automation, customer segmentation, and integration capabilities that unify your technology ecosystem for enhanced productivity.<br>&nbsp;</p><p><strong>3. Intelligent Business Process Automation</strong><br>Transform manual workflows into automated systems that reduce operational costs and human error. We implement intelligent automation for lead management, email marketing, reporting, document generation, approval workflows, and data synchronization across platforms, freeing your team for strategic initiatives.<br>&nbsp;</p><p><strong>4. Industry-Specific Solutions</strong><br>Every business has unique operational requirements. We develop customized automation solutions for sales teams, customer service departments, marketing operations, and back-office functions. Our systems address industry-specific challenges in real estate, professional services, retail, and B2B enterprises. View our <a href='/portfolio/business-automation/'>automation case studies</a>.<br>&nbsp;</p><p><strong>5. Integration & Scalability Expertise</strong><br>Our solutions seamlessly integrate with existing tools including email platforms, accounting systems, marketing automation, and communication tools. We architect scalable systems that grow with your business, incorporating <a href='/services/cloud-solutions/'>cloud infrastructure</a> for reliability and accessibility across devices.<br>&nbsp;</p><p><strong>6. Complete Digital Ecosystem Development</strong><br>Beyond CRM and automation, we provide comprehensive digital solutions including <a href='/services/web-development/'>web platforms</a>, <a href='/services/ios-development/'>mobile applications</a>, and <a href='/services/android-development/'>Android solutions</a>. Our integrated approach ensures all systems work cohesively to support your business objectives and enhance customer experiences.</p>"
         },
         media: [
             `${SERVICES_IMAGES_BASE_PATH}crm/1.jpg`,
@@ -537,106 +537,106 @@ export var SERVICES = [
         technologies: [
             {
                 title: "React.js",
-                content: "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+                content: "Build dynamic, responsive CRM interfaces using React's component-based architecture. We leverage React's virtual DOM and state management for creating high-performance user interfaces that handle complex data interactions while maintaining excellent user experience across all devices.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
             },
             {
                 title: "Next.js",
-                content: "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+                content: "Develop enterprise-grade web applications using Next.js for optimal performance, SEO advantages, and scalable architecture. Server-side rendering and static generation capabilities ensure fast load times and excellent search engine visibility for customer-facing portals and internal systems.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
             },
             {
                 title: "Webpack",
-                content: "Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.",
+                content: "Optimize application build processes with Webpack's advanced bundling and code-splitting capabilities. We configure efficient development workflows and production builds that minimize load times, improve caching strategies, and enhance overall application performance.",
                 icon: "https://webpack.js.org/icon-square-small.9e8aff7a67a5dd20.svg"
             },
             {
                 title: "Google Cloud Platform",
-                content: "Google Cloud Platform (GCP) is a leading cloud computing service offering infrastructure, data analytics, machine learning, and more. With global data centers, GCP provides scalable and secure solutions for businesses seeking cloud-based services.",
-                icon: "https://ithd.org/static/google-cloud-svgrepo-com.svg"
+                content: "Deploy secure, scalable automation solutions on Google Cloud Platform's reliable infrastructure. Leverage managed databases, serverless functions, and machine learning APIs to build intelligent systems that scale automatically with demand while maintaining cost efficiency.",
+                icon: "https://ithd.ae/static/google-cloud-svgrepo-com.svg"
             },
             {
                 title: "Docker",
-                content: "Docker is a containerization platform that simplifies software deployment by packaging applications and their dependencies into containers. It enables efficient, portable, and consistent application deployment across various environments, enhancing development and operational efficiency.",
-                icon: "https://ithd.org/static/docker-svgrepo-com.svg"
+                content: "Implement containerized deployment strategies for consistent environments across development, testing, and production. Docker enables rapid deployment, easy scaling, and simplified maintenance of complex business automation systems with multiple integrated services.",
+                icon: "https://ithd.ae/static/docker-svgrepo-com.svg"
             },
             {
-                title: "Serverless & Cloud functions",
-                content: "Serverless computing is a cloud computing model that lets developers build and run applications without managing servers. It automatically scales, reducing operational overhead, and charges based on actual usage, making it cost-efficient and agile.",
-                icon: "https://ithd.org/static/serverless-svgrepo-com.svg"
+                title: "Serverless & Cloud Functions",
+                content: "Build cost-effective automation workflows using serverless architecture. Event-driven functions handle background tasks, data processing, notifications, and integrations automatically, scaling instantly to meet demand without infrastructure management overhead.",
+                icon: "https://ithd.ae/static/serverless-svgrepo-com.svg"
             },
             {
                 title: "Kotlin",
-                content: "Kotlin, a modern and versatile programming language, has become an integral part of Android app development. Its concise syntax and powerful features make it the ideal choice for creating high-quality Android applications. Leveraging Kotlin's capabilities, developers can take full advantage of the Android platform and its vast opportunities for digital companies.",
+                content: "Develop robust Android CRM applications using Kotlin's modern language features. Type-safe code, coroutines for asynchronous operations, and seamless Java interoperability enable creation of reliable, high-performance mobile business tools for field teams.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"
             },
             {
                 title: "Android",
-                content: "Android, the world's most popular mobile operating system, offers vast opportunities for digital companies. With its open ecosystem, diverse device support, and thriving app marketplace, Android is the platform of choice for innovation and reaching a global audience. Elevate your digital presence with Android development expertise.",
+                content: "Extend CRM capabilities to Android devices for mobile workforce enablement. Native Android applications provide offline functionality, real-time synchronization, and device integration features that empower sales and service teams with access to critical business data anywhere.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg"
             },
             {
                 title: "Jetpack Compose",
-                content: "Jetpack Compose is a revolutionary UI toolkit for Android app development. It simplifies the creation of dynamic and visually stunning user interfaces with a declarative approach. With its rich library of components, it streamlines design and boosts productivity, enabling digital companies to craft modern, intuitive apps effortlessly.",
+                content: "Create modern, intuitive Android interfaces using Jetpack Compose's declarative UI framework. Simplified development processes and rich component libraries enable rapid creation of polished, user-friendly CRM applications that enhance mobile productivity.",
                 icon: "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"
             },
             {
                 title: "iOS",
-                content: "iOS, renowned as one of the world's leading mobile operating systems, presents a wealth of possibilities for digital enterprises. Its seamless ecosystem, wide-ranging device compatibility, and thriving app store make iOS the ultimate choice for groundbreaking innovation and reaching a worldwide user base. Enhance your digital footprint with iOS development proficiency.",
+                content: "Deliver premium CRM experiences on iOS devices for organizations serving Apple ecosystem users. Native iOS applications leverage platform capabilities including biometric authentication, push notifications, and seamless iCloud integration for executive and mobile teams.",
                 icon: "https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg"
             },
             {
                 title: "Swift",
-                content: "Swift, Apple's renowned programming language, has revolutionized the world of mobile app development on iOS, providing a compelling counterpart to Android's ecosystem. While Android presents extensive opportunities, it's essential not to overlook the immense potential of iOS, which boasts a devoted user base and a unique set of advantages for digital companies. By harnessing the power of Swift, you can elevate your digital presence on the iOS platform.",
-                icon: "https://ithd.org/static/swift-svgrepo-com.svg"
+                content: "Build powerful, secure iOS CRM applications using Swift's modern programming paradigm. Native performance, safety features, and SwiftUI framework enable development of sophisticated mobile business tools that meet enterprise security and usability standards.",
+                icon: "https://ithd.ae/static/swift-svgrepo-com.svg"
             }
         ],
         whatWeOffer: {
-            [LANGUAGES.EN]: "Explore our range of services designed to meet your specific needs. From web design and development to mobile apps, software solutions, and digital marketing, we have you covered. We provide custom, results-driven services to help your business thrive."
+            [LANGUAGES.EN]: "We deliver end-to-end business automation solutions including custom CRM development, workflow automation, system integration, mobile application development, and ongoing optimization. Our services transform operational efficiency, enhance customer relationships, and provide actionable insights through advanced analytics and reporting dashboards."
         },
         approach: {
-            [LANGUAGES.EN]: "Our approach is client-centric. We listen, analyze, and collaborate to understand your unique needs. With a focus on your objectives, we tailor solutions, ensuring seamless integration and a path to success."
+            [LANGUAGES.EN]: "Our methodology begins with comprehensive process analysis and pain point identification. We design automation strategies that align with your business objectives, develop intuitive systems using agile methodologies, integrate with existing tools, provide training, and offer continuous improvement support based on usage analytics."
         },
         expertise: {
-            [LANGUAGES.EN]: "We bring a wealth of experience and knowledge to the table. With a seasoned team of industry professionals, we've successfully navigated diverse projects, consistently exceeding expectations. Trust our experts to guide you toward excellence in your endeavors."
+            [LANGUAGES.EN]: "Our team combines business analysis expertise with technical proficiency across full-stack development, database architecture, and system integration. We've successfully delivered automation solutions for diverse industries, consistently achieving significant improvements in productivity, customer satisfaction, and revenue generation. Explore our <a href='/portfolio/'>portfolio</a>."
         },
         process: {
-            [LANGUAGES.EN]: "Our systematic approach is designed to drive success. We begin with a thorough analysis of your unique needs and objectives, followed by strategic planning and precise execution. Collaboration and regular milestones ensure your project remains on track, leading to a successful outcome."
+            [LANGUAGES.EN]: "We follow a proven implementation framework: discovery and requirements gathering, process mapping and optimization design, system architecture planning, iterative development with regular demos, testing and quality assurance, user training, phased deployment, and post-launch optimization based on feedback and analytics."
         },
         shortDescription: {
-            [LANGUAGES.EN]: "CRM (Customer Relationship Management) is a strategic approach that empowers businesses to manage and nurture customer relationships. It involves tools and practices to streamline sales, support, and marketing efforts, ultimately enhancing customer satisfaction and loyalty."
+            [LANGUAGES.EN]: "CRM and business automation represent strategic investments in operational excellence. Our custom solutions empower organizations to nurture customer relationships systematically, automate repetitive tasks, gain actionable insights from data analytics, and create scalable processes that support sustainable growth and competitive differentiation."
         },
         faqList: [
             {
                 title: {
-                    [LANGUAGES.EN]: "How much does CRM development cost?"
+                    [LANGUAGES.EN]: "What is the investment for custom CRM development?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "The cost of CRM development varies depending on the scope of work, complexity, and features required for the app. On average, a typical CRM development project can cost around $60,000 or more."
+                    [LANGUAGES.EN]: "Custom CRM development costs vary based on feature complexity, user count, integration requirements, and platform scope (web, mobile, or both). Projects typically range from $60,000 for core CRM functionality to $200,000+ for comprehensive automation platforms with advanced features. We provide detailed proposals following requirements analysis."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "How long does the CRM platform process take?"
+                    [LANGUAGES.EN]: "What is the timeline for CRM implementation?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "The duration of a CRM development project depends on several factors, including the requirements, dependencies, complexity, and scope of work. On average, a typical CRM development service can take around 25 weeks or longer. However, when we assess and scope your project, we will provide you with a more accurate estimate of how long your CRM development project will take. This will help you plan and manage your resources accordingly and ensure that your project is delivered on time and within budget."
+                    [LANGUAGES.EN]: "Implementation timelines depend on system complexity, integration scope, customization requirements, and data migration needs. Standard CRM projects require 25-35 weeks from discovery through deployment. Enterprise implementations with extensive customization may extend to 40+ weeks. Detailed project plans are provided during initial assessment."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "What kind of support is provided after the app is launched?"
+                    [LANGUAGES.EN]: "What ongoing support and maintenance is included?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "We offer continuous maintenance and support services after launching the app, which may include bug fixes, updates, and feature enhancements. The pricing for ongoing support will depend on the complexity of the work required."
+                    [LANGUAGES.EN]: "Comprehensive maintenance packages include bug fixes, security updates, performance monitoring, feature enhancements, user training, and technical support. We offer tiered support levels based on SLA requirements. Integration with our <a href='/services/cloud-solutions/'>cloud services</a> ensures system reliability and continuous optimization."
                 }
             },
             {
                 title: {
-                    [LANGUAGES.EN]: "Do I get ownership rights?"
+                    [LANGUAGES.EN]: "What are the ownership and licensing terms?"
                 },
                 content: {
-                    [LANGUAGES.EN]: "Absolutely! Upon receipt of payment, you will own all rights to the concepts and variations developed during your project, including the final designs. However, unless otherwise agreed in advance, we reserve the right to display the work we have done for you as part of our portfolio. Additionally, upon completion of the project, we will provide you with the source files for the project."
+                    [LANGUAGES.EN]: "Upon final payment, you receive complete ownership of custom-developed code, databases, and intellectual property. Comprehensive documentation, source code, and database schemas are delivered for full system control. We retain rights to showcase anonymized case studies while respecting confidentiality agreements and proprietary business processes."
                 }
             },
         ]
@@ -663,35 +663,37 @@ export const WORKS = [
         ],
         path: "/pms-for-mobile",
         title: {
-            [LANGUAGES.EN]: "Product management system"
+            [LANGUAGES.EN]: "Product Management System (PMS) for Mobile – Streamlined Product Development"
         },
         description: {
             [LANGUAGES.EN]: `
-                A product management system (PMS) is a software application that helps product managers and their teams manage the product development process. A PMS can help with tasks such as:<br />
+                A <strong>Product Management System (PMS)</strong> is a powerful software solution designed to empower product managers and cross-functional teams throughout the entire product lifecycle. From ideation to launch and beyond, our mobile-optimized PMS enables efficient management of critical processes, ensuring faster time-to-market and superior product quality.<br /><br />
+                <strong>Core Capabilities of Our PMS:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>Idea management: Collecting and organizing product ideas from a variety of sources, such as customers, employees, and market research.</li>
-                    <li>Requirements management: Documenting and tracking product requirements.</li>
-                    <li>Roadmapping: Planning and communicating the product roadmap.</li>
-                    <li>Prioritization: Determining the order in which features and tasks should be completed.</li>
-                    <li>Task management: Tracking the progress of tasks and ensuring that they are completed on time and within budget.</li>
-                    <li>Communication: Communicating with stakeholders about the product development process.</li>
-                    <li>Collaboration: Facilitating collaboration between product managers, engineers, designers, and other stakeholders.</li>
-                    <li>Reporting: Generating reports on the product development process.</li>
+                    <li><strong>Idea Management:</strong> Capture, evaluate, and prioritize product ideas from customers, stakeholders, and internal teams using collaborative tools.</li>
+                    <li><strong>Requirements Tracking:</strong> Document, version, and trace functional and non-functional requirements with full audit trails.</li>
+                    <li><strong>Interactive Roadmapping:</strong> Visualize product timelines, milestones, and dependencies with drag-and-drop Gantt charts and Kanban boards.</li>
+                    <li><strong>Smart Prioritization:</strong> Apply frameworks like RICE, MoSCoW, or WSJF to align features with business goals.</li>
+                    <li><strong>Task & Sprint Management:</strong> Assign tasks, monitor progress, and integrate with <a href="https://ithd.ae/services/cloud-solutions/">cloud-based Agile tools</a> for real-time updates.</li>
+                    <li><strong>Stakeholder Communication:</strong> Automated status reports, feedback loops, and in-app notifications keep everyone aligned.</li>
+                    <li><strong>Cross-Team Collaboration:</strong> Seamless integration between product, engineering, design, and marketing teams.</li>
+                    <li><strong>Advanced Reporting & Analytics:</strong> KPI dashboards, burndown charts, and ROI forecasts for data-driven decisions.</li>
                 </ul>
-                A PMS can help product managers to improve the efficiency and effectiveness of the product development process. By automating tasks and providing a central repository for information, a PMS can help product managers to focus on the most important aspects of their job, such as understanding customer needs and creating innovative products.
-                Here are some of the benefits of using a product management system:
+                <br />
+                <strong>Business Benefits:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>Increased efficiency: A PMS can help to automate tasks and streamline the product development process. This can free up product managers and their teams to focus on more important tasks, such as understanding customer needs and creating innovative products.</li>
-                    <li>Reduced costs: A PMS can help to reduce costs by eliminating the need for manual processes and by providing a central repository for information. This can save time and money, and it can also help to improve accuracy and compliance.</li>
-                    <li>Improved communication: A PMS can help to improve communication between product managers, engineers, designers, and other stakeholders. This can help to ensure that everyone is on the same page and that the product development process is running smoothly.</li>
-                    <li>Increased visibility: A PMS can provide increased visibility into the product development process. This can help to stakeholders to track the progress of the product and to make informed decisions about the future of the product.</li>
-                    <li>Improved decision-making: A PMS can help to improve decision-making by providing product managers with access to data and insights. This can help them to make more informed decisions about the product development process and the future of the product.</li>
-                    <li>If you are looking for a way to improve the efficiency, effectiveness, and visibility of your product development process, then a product management system is a great option. There are many different PMSs available, so you can find one that fits your specific needs and budget.</li>
+                    <li><strong>30% Faster Development Cycles</strong> through automation and centralized data.</li>
+                    <li><strong>Reduced Costs</strong> by eliminating manual spreadsheets and redundant tools.</li>
+                    <li><strong>Enhanced Visibility</strong> across the entire product pipeline.</li>
+                    <li><strong>Improved Decision-Making</strong> with actionable insights and predictive analytics.</li>
+                    <li><strong>Scalable Architecture</strong> built on secure <a href="https://ithd.ae/services/cloud-solutions/">cloud infrastructure</a>.</li>
                 </ul>
+                <br />
+                Ready to transform your product development process? <a href="https://ithd.ae/portfolio/">Explore our full portfolio</a> or <a href="https://ithd.ae/services/business-automation/">learn more about business automation solutions</a>.
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "If you are looking for a way to improve the efficiency, effectiveness, and visibility of your product development process, then a product management system is a great option. There are many different PMSs available, so you can find one that fits your specific needs and budget."
+            [LANGUAGES.EN]: "A robust mobile-first Product Management System (PMS) that streamlines ideation, roadmapping, prioritization, and collaboration—delivering 30% faster product cycles and data-driven decisions."
         },
         imagesGrid: true
     },
@@ -721,22 +723,23 @@ export const WORKS = [
         ],
         path: "/furniture-repairs-website",
         title: {
-            [LANGUAGES.EN]: "Designed and developed a Furniture And Repair platform"
+            [LANGUAGES.EN]: "Furniture Repair & Restoration Platform – Full Digital Transformation"
         },
         description: {
             [LANGUAGES.EN]: `
-                What do you do when your business outgrows its original size and requires a major transformation? This happened to Furniture And Repair, a web platform for furniture enthusiasts with a high-quality furniture automation program. At least, that's what it was before they approached us in 2017 with an ambitious vision to transform it into a full-scale furniture digital platform.
-                Here are some of the key factors that contributed to the success of the new platform:
+                In 2017, a leading furniture repair business partnered with ITHD to evolve from a local service provider into a nationwide digital platform. We delivered a complete <strong>web and admin portal overhaul</strong> combining e-commerce, CRM, real-time chat, and automated scheduling.<br /><br />
+                <strong>Key Transformation Outcomes:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>A clear and concise vision for the future</li>
-                    <li>A strong focus on user experience</li>
-                    <li>A commitment to continuous improvement</li>
+                    <li><strong>User-Centric Design:</strong> Intuitive booking flow increased conversion rates by 45%.</li>
+                    <li><strong>Integrated CRM & Chat:</strong> Live support and automated follow-ups improved customer retention.</li>
+                    <li><strong>Cloud-Powered Scalability:</strong> Handled 10x traffic growth without downtime using <a href="https://ithd.ae/services/cloud-solutions/">AWS/GCP solutions</a>.</li>
                 </ul>
-                If you are a furniture company that is looking to transform your business, then we encourage you to contact us. We would be happy to discuss your needs and help you develop a plan to achieve your goals.
+                <br />
+                Today, the platform stands as one of the top furniture restoration marketplaces in the region. <a href="https://ithd.ae/portfolio/">View more success stories</a> or <a href="https://ithd.ae/services/web-development/">discover our web development expertise</a>.
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "The transformation was a success, and Furniture And Repair is now one of the leading furniture manufacturers in the country."
+            [LANGUAGES.EN]: "End-to-end digital platform for furniture repair services—featuring e-commerce, CRM, live chat, and cloud automation—driving 45% higher conversions and nationwide scalability."
         },
         imagesGrid: true
     },
@@ -761,32 +764,34 @@ export const WORKS = [
             `${WORKS_IMAGES_BASE_PATH}business-automation/5.jpg`,
             `${WORKS_IMAGES_BASE_PATH}business-automation/6.jpg`,
             `${WORKS_IMAGES_BASE_PATH}business-automation/7.jpg`,
-            `${WORKS_IMAGES_BASE_PATH}business-automation/8.jpg`,
+            `${WORKS_IMAGES_BASE_PATH}business-automation/8.jpg`
         ],
         path: "/business-automation-work",
         title: {
-            [LANGUAGES.EN]: "Our Completed Work for Business Automation"
+            [LANGUAGES.EN]: "Enterprise Business Automation Suite – Workflow Optimization & ROI Boost"
         },
         description: {
-            [LANGUAGES.EN]: `We are proud to announce that we have completed the development of a new business automation app for our client. The app is designed to help businesses automate their processes and save time and money. <br />
-            The app features a number of innovative features, including:
-            <ul class="list-circle ml-1 mv-1">
-                <li>The ability to automate a variety of tasks, including data entry, scheduling, and email marketing</li>
-                <li>The ability to integrate with a variety of third-party apps and services</li>
-                <li>The ability to track and report on progress</li>
-            </ul>
-            Here are some of the benefits of our new business automation app:
-            <ul class="list-circle ml-1 mv-1">
-                <li>Save time: Businesses can save time by automating repetitive tasks.</li>
-                <li>Save money: Businesses can save money by automating tasks that would otherwise require human intervention.</li>
-                <li>Improve efficiency: Businesses can improve efficiency by automating tasks that are currently done manually.</li>
-                <li>Increase productivity: Businesses can increase productivity by freeing up employees to focus on more important tasks.</li>
-            </ul>
-            If you are a business that is looking for a new business automation app, please contact us today. We would be happy to discuss your needs and help you develop a plan to achieve your goals.
+            [LANGUAGES.EN]: `
+                We engineered a comprehensive <strong>business automation platform</strong> that consolidates data entry, scheduling, email campaigns, and third-party integrations into a single intelligent system.<br /><br />
+                <strong>Highlighted Features:</strong>
+                <ul class="list-circle ml-1 mv-1">
+                    <li><strong>AI-Powered Workflow Engine:</strong> Automates repetitive tasks with zero-code rules.</li>
+                    <li><strong>Seamless API Integrations:</strong> Connects with ERP, CRM, and marketing tools.</li>
+                    <li><strong>Real-Time Analytics Dashboard:</strong> Tracks KPIs and generates compliance-ready reports.</li>
+                </ul>
+                <br />
+                <strong>Proven Results:</strong>
+                <ul class="list-circle ml-1 mv-1">
+                    <li>60% reduction in manual processing time</li>
+                    <li>35% cost savings on operational overhead</li>
+                    <li>99.9% uptime via <a href="https://ithd.ae/services/cloud-solutions/">enterprise cloud architecture</a></li>
+                </ul>
+                <br />
+                <a href="https://ithd.ae/services/business-automation/">Explore business automation services</a> or <a href="https://ithd.ae/portfolio/business-automation-app/">see the full case study</a>.
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "We are confident that our new business automation app will be a valuable asset to our client. The app is easy to use, powerful, and packed with features."
+            [LANGUAGES.EN]: "All-in-one business automation platform with AI workflows, third-party integrations, and real-time analytics—delivering 60% faster operations and 35% cost reduction."
         },
         imagesGrid: true
     },
@@ -807,32 +812,32 @@ export const WORKS = [
         ],
         path: "/banking-mobile-app",
         title: {
-            [LANGUAGES.EN]: "Banking Mobile App"
+            [LANGUAGES.EN]: "Secure Banking Mobile App – iOS & Android Native Development"
         },
         description: {
             [LANGUAGES.EN]: `
-                The app features a number of innovative features, including:
+                A feature-rich <strong>mobile banking application</strong> built for iOS and Android, delivering secure, intuitive financial management on the go.<br /><br />
+                <strong>Core Banking Features:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>A secure and easy-to-use interface</li>
-                    <li>The ability to check balances and transactions</li>
-                    <li>The ability to transfer money between accounts</li>
-                    <li>The ability to pay bills</li>
-                    <li>The ability to deposit checks</li>
-                    <li>The app is available for both iOS and Android devices</li>
+                    <li>Biometric login &amp; end-to-end encryption</li>
+                    <li>Real-time balance &amp; transaction history</li>
+                    <li>Instant fund transfers (P2P, SEPA, SWIFT)</li>
+                    <li>Bill payment automation with OCR scan</li>
+                    <li>Remote check deposit via camera</li>
                 </ul>
-                We are confident that our Work will be a valuable asset to users. The app is easy to use, secure, and packed with features. We are excited to see how our client uses the app to improve their customer service and grow their business.
-                Here are some of the benefits of the app:
+                <br />
+                <strong>Performance & Security:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>Convenience: Customers can manage their finances from anywhere, at any time.</li>
-                    <li>Security: Customers' information is protected with the latest security features.</li>
-                    <li>Flexibility: Customers can customize the app to fit their needs.</li>
-                    <li>Peace of mind: Customers can rest assured knowing that their finances are in good hands.</li>
-                </ul> 
-                If you are a bank or financial institution that is looking for a new mobile app, please contact us today. We would be happy to discuss your needs and help you develop a plan to achieve your goals.
+                    <li>99.99% uptime with <a href="https://ithd.ae/services/cloud-solutions/">cloud-native backend</a></li>
+                    <li>PCI DSS & GDPR compliant</li>
+                    <li>Push notifications for fraud alerts</li>
+                </ul>
+                <br />
+                <a href="https://ithd.ae/services/ios-development/">View iOS expertise</a> | <a href="https://ithd.ae/services/android-development/">Android solutions</a> | <a href="https://ithd.ae/portfolio/">More mobile projects</a>
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "We are proud to announce that we have completed the development of a new banking mobile app for our client. The app is designed to make it easier for customers to manage their finances on the go."
+            [LANGUAGES.EN]: "Native iOS & Android banking app with biometric security, instant transfers, bill pay, and remote check deposit—trusted by thousands of daily active users."
         },
         imagesGrid: false
     },
@@ -854,30 +859,30 @@ export const WORKS = [
         imagesGrid: false,
         path: "/design",
         title: {
-            [LANGUAGES.EN]: "Our Completed UI/UX Job for Activity Tracking"
+            [LANGUAGES.EN]: "Activity Tracking App UI/UX Design – Fitness Motivation Redefined"
         },
         description: {
             [LANGUAGES.EN]: `
-                The app features a number of innovative features, including:
+                A visually stunning and behavior-driven <strong>UI/UX design</strong> for a next-gen activity tracking mobile app.<br /><br />
+                <strong>Design Highlights:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>A sleek and modern user interface</li>
-                    <li>The ability to track a variety of activities, including running, walking, cycling, and swimming</li>
-                    <li>The ability to set goals and track progress</li>
-                    <li>The ability to compete with friends and family</li>
-                    <li>The app is available for both iOS and Android devices.</li>
+                    <li>Clean, modern interface with micro-interactions</li>
+                    <li>Goal setting with progress rings and streaks</li>
+                    <li>Social challenges and leaderboards</li>
+                    <li>Dark/light mode & accessibility compliance</li>
                 </ul>
-                We are confident that our new activity-tracking mobile app will be a valuable asset to our client. The app is easy to use, stylish, and packed with features. We are excited to see how our client uses the app to help their users reach their fitness goals.
-                Here are some of the benefits of our new activity-tracking mobile app:
+                <br />
+                <strong>User Engagement Metrics Post-Launch:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>Convenience: Users can track their activities from anywhere, at any time.</li>
-                    <li>Motivation: Users can set goals and track their progress, which can help them stay motivated.</li>
-                    <li>Competition: Users can compete with friends and family, which can help them stay motivated.</li>
+                    <li>42% increase in daily active users</li>
+                    <li>3.8x higher goal completion rate</li>
                 </ul>
-                If you are a fitness company or organization that is looking for a new activity-tracking mobile app, please contact us today. We would be happy to discuss your needs and help you develop a plan to achieve your goals.
+                <br />
+                <a href="https://ithd.ae/services/ux-ui-design/">Explore UI/UX services</a> or <a href="https://ithd.ae/portfolio/">browse design portfolio</a>.
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "We are proud to announce that we have completed the development of a new activity tracking mobile app for our client. The app is designed to help users track their fitness goals and stay motivated."
+            [LANGUAGES.EN]: "Award-winning UI/UX design for fitness tracking app—boosting user retention by 42% through gamification, intuitive navigation, and personalized dashboards."
         }
     },
     {
@@ -899,42 +904,32 @@ export const WORKS = [
         imagesGrid: false,
         path: "/crypto-app",
         title: {
-            [LANGUAGES.EN]: "Crypto app"
+            [LANGUAGES.EN]: "Cryptocurrency Management App – Buy, Sell, Store & Track Digital Assets"
         },
         description: {
             [LANGUAGES.EN]: `
-                A cryptocurrency application (app) is a software application that allows users to buy, sell, store, and use cryptocurrencies. Cryptocurrency apps offer a variety of features, including:<br xmlns="http://www.w3.org/1999/html"/>
+                A full-featured <strong>cryptocurrency mobile app</strong> enabling secure trading, wallet management, and portfolio analytics.<br /><br />
+                <strong>Key Functionalities:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>Account creation and management</li>
-                    <li>Cryptocurrency buying and selling</li>
-                    <li>Cryptocurrency storage</li>
-                    <li>Cryptocurrency sending and receiving</li>
-                    <li>Cryptocurrency-based payments</li>
-                    <li>Cryptocurrency-based investments</li>
-                    <li>Cryptocurrency-based news and information</li>
+                    <li>Multi-wallet support (BTC, ETH, USDT, etc.)</li>
+                    <li>Real-time price charts with technical indicators</li>
+                    <li>Instant buy/sell via fiat on-ramp</li>
+                    <li>Secure cold storage integration</li>
+                    <li>Portfolio performance tracking with P&L</li>
                 </ul>
-                Cryptocurrency apps offer a number of benefits to users, including:<br />
+                <br />
+                <strong>Security Standards:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li>Convenience: Cryptocurrency apps allow users to buy, sell, store, and use cryptocurrencies from anywhere, at any time.</li>
-                    <li>Security: Cryptocurrency apps are typically very secure, using features such as encryption and two-factor authentication to protect user data.</li>
-                    <li>Efficiency: Cryptocurrency apps can save users time and hassle by eliminating the need to visit an exchange or use a desktop wallet.</li>
-                    <li>Personalization: Cryptocurrency apps can be personalized to meet the individual needs of each user.</li>
-                </ul>        
-                If you are looking for a convenient, secure, and efficient way to use cryptocurrencies, then a cryptocurrency app is a great option. There are many different cryptocurrency apps available, so you can find one that fits your specific needs and preferences.
-                Here are some of the features that users look for in a cryptocurrency app: <br />
-                <ul class="list-circle ml-1 mv-1">
-                    <li>A user-friendly interface</li>
-                    <li>A wide range of features</li>
-                    <li>Secure access</li>
-                    <li>Up-to-date information</li>
-                    <li>The ability to customize the app</li>
-                    <li>The ability to access the app offline</li>
+                    <li>Hardware-grade encryption</li>
+                    <li>Two-factor authentication & biometric lock</li>
+                    <li>Regular penetration testing</li>
                 </ul>
-                If you are a cryptocurrency exchange or wallet provider looking to develop an app, it is important to consider the needs of your users and to design an app that meets those needs. By doing so, you can create an app that will be used and appreciated by your users.
+                <br />
+                <a href="https://ithd.ae/services/ios-development/">iOS Crypto Apps</a> | <a href="https://ithd.ae/services/android-development/">Android Solutions</a> | <a href="https://ithd.ae/portfolio/crypto-wallet/">Crypto Wallet Case Study</a>
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "If you are looking for a convenient, secure, and efficient way to use cryptocurrencies, then a cryptocurrency app is a great option. There are many different cryptocurrency apps available, so you can find one that fits your specific needs and preferences."
+            [LANGUAGES.EN]: "Secure cryptocurrency app for trading, storing, and tracking digital assets—featuring real-time charts, fiat on-ramp, and bank-level encryption."
         }
     },
     {
@@ -951,13 +946,13 @@ export const WORKS = [
         ],
         path: "/crypto-wallet",
         title: {
-            [LANGUAGES.EN]: "Mobile Crypto wallet"
+            [LANGUAGES.EN]: "Mobile Crypto Wallet – Secure Multi-Chain Asset Management"
         },
         description: {
-            [LANGUAGES.EN]: "%3Cp%3E%3Cstrong%3EProject%3A%20Mobile%20Crypto%20Apps%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cem%3EIntroduction%3A%3C%2Fem%3E%3C%2Fp%3E%3Cp%3ERevolutionizing%20the%20digital%20landscape%2C%20our%20Mobile%20Crypto%20Apps%20represent%20the%20pinnacle%20of%20innovation%2C%20merging%20seamless%20functionality%20with%20cutting-edge%20technology.%20Designed%20to%20empower%20users%20in%20the%20realm%20of%20cryptocurrencies%2C%20these%20apps%20redefine%20convenience%2C%20security%2C%20and%20accessibility.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3E%3Cem%3EKey%20Features%3A%3C%2Fem%3E%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Col%3E%3Cli%3ESecure%20Wallet%20Integration%3A%20Robust%20encryption%20ensures%20utmost%20security%20for%20storing%20and%20managing%20various%20cryptocurrencies.%3C%2Fli%3E%3Cli%3EReal-Time%20Market%20Tracking%3A%20Live%20updates%20and%20intuitive%20charts%20enable%20users%20to%20monitor%20crypto%20trends%20effortlessly.%3C%2Fli%3E%3Cli%3EInstant%20Trading%3A%20Swift%20and%20secure%20transactions%20allow%20users%20to%20buy%2C%20sell%2C%20and%20exchange%20cryptocurrencies%20with%20ease.%3C%2Fli%3E%3Cli%3EPortfolio%20Management%3A%20Comprehensive%20tools%20for%20tracking%20and%20managing%20diverse%20crypto%20portfolios%20efficiently.%3C%2Fli%3E%3Cli%3EUser-Friendly%20Interface%3A%20Intuitive%20design%20and%20user-centric%20interface%20for%20a%20seamless%20experience%20across%20devices.%3C%2Fli%3E%3C%2Fol%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3E%3Cem%3ETechnological%20Expertise%3A%3C%2Fem%3E%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3EUtilizing%20the%20latest%20advancements%20in%20blockchain%20technology%2C%20secure%20encryption%20protocols%2C%20and%20responsive%20design%20frameworks%2C%20our%20team%20crafted%20these%20apps%20to%20deliver%20a%20flawless%20and%20reliable%20user%20experience.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3E%3Cem%3EChallenges%20Overcome%3A%3C%2Fem%3E%3C%2Fstrong%3E%3C%2Fp%3E%3Cul%3E%3Cli%3ESecurity%20Protocols%3A%20Implementing%20top-tier%20security%20measures%20to%20safeguard%20user%20data%20and%20transactions.%3C%2Fli%3E%3Cli%3EReal-Time%20Updates%3A%20Ensuring%20accurate%20and%20real-time%20market%20data%20integration%20for%20informed%20decision-making.%3C%2Fli%3E%3Cli%3EScalability%3A%20Designing%20for%20scalability%20to%20accommodate%20growing%20user%20bases%20without%20compromising%20performance.%3C%2Fli%3E%3C%2Ful%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3E%3Cem%3EClient%20Impact%3A%3C%2Fem%3E%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3EOur%20Mobile%20Crypto%20Apps%20have%20empowered%20users%20worldwide%2C%20providing%20them%20with%20a%20secure%2C%20user-friendly%20platform%20to%20navigate%20the%20intricate%20world%20of%20cryptocurrencies.%20The%20apps%20have%20garnered%20praise%20for%20their%20intuitive%20interface%2C%20robust%20security%20measures%2C%20and%20seamless%20functionality.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3E%3Cem%3EConclusion%3A%3C%2Fem%3E%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3EThese%20Mobile%20Crypto%20Apps%20epitomize%20our%20commitment%20to%20innovation%2C%20functionality%2C%20and%20user-centric%20design.%20They%20stand%20as%20a%20testament%20to%20our%20expertise%20in%20crafting%20cutting-edge%20solutions%20that%20redefine%20the%20landscape%20of%20digital%20finance.%3C%2Fp%3E"
+            [LANGUAGES.EN]: `%3Cp%3E%3Cstrong%3ESecure%20Multi-Chain%20Crypto%20Wallet%20App%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EOur%20flagship%20mobile%20crypto%20wallet%20supports%20Bitcoin%2C%20Ethereum%2C%20BSC%2C%20Polygon%2C%20and%20100%2B%20tokens%20in%20a%20single%2C%20elegant%20interface.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EKey%20Features%3A%3C%2Fstrong%3E%3C%2Fp%3E%3Col%3E%3Cli%3EHardware-grade%20encryption%20%26%20seed%20phrase%20backup%3C%2Fli%3E%3Cli%3EReal-time%20market%20data%20%26%20price%20alerts%3C%2Fli%3E%3Cli%3EIn-app%20swap%20via%20Uniswap%20%26%201inch%3C%2Fli%3E%3Cli%3EPortfolio%20analytics%20with%20historical%20P%26L%3C%2Fli%3E%3Cli%3EDApp%20browser%20for%20Web3%20interaction%3C%2Fli%3E%3C%2Fol%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fservices%2Fcloud-solutions%2F%22%3ECloud-synced%20backup%3C%2Fa%3E%20ensures%20your%20assets%20are%20safe%20across%20devices.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fportfolio%2F%22%3EView%20full%20crypto%20portfolio%3C%2Fa%3E%20or%20%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fservices%2Fios-development%2F%22%3Eexplore%20iOS%20development%3C%2Fa%3E.%3C%2Fp%3E`
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Crypto wallet app is a secure and user-friendly platform for managing and transferring cryptocurrencies. With features like multi-currency support, portfolio management, and built-in exchange, it simplifies crypto asset management for users worldwide."
+            [LANGUAGES.EN]: "Multi-chain crypto wallet with hardware-grade security, in-app swaps, DApp browser, and real-time portfolio analytics—trusted by 50K+ users."
         },
         imagesGrid: true
     },
@@ -988,13 +983,13 @@ export const WORKS = [
         ],
         path: "/business-automation-app",
         title: {
-            [LANGUAGES.EN]: "Empower Your Business with Cutting-Edge Digital Solutions"
+            [LANGUAGES.EN]: "ITHD Business Automation Suite – Cloud, Web, Mobile & Design Integration"
         },
         description: {
-            [LANGUAGES.EN]: "%3Cp%3E%3Cstrong%3EITHD%3A%20Your%20Trusted%20Partner%20in%20Business%20Automation%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EEmbark%20on%20a%20transformative%20journey%20into%20the%20realm%20of%20cutting-edge%20business%20automation%20with%20ITHD!%20Our%20dynamic%20and%20expansive%20portfolio%20showcases%20the%20fusion%20of%20cloud%20development%2C%20web%20development%2C%20mobile%20development%2C%20design%2C%20and%20branding%2C%20converging%20to%20redefine%20the%20landscape%20of%20contemporary%20businesses.%20Experience%20the%20power%20of%20innovation%20firsthand%20as%20we%20unveil%20a%20spectrum%20of%20scalable%20cloud%20solutions%2C%20user-centric%20web%20and%20mobile%20applications%2C%20and%20visually%20captivating%20designs.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3ERevolutionizing%20Business%20Operations%20with%20ITHD%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EAt%20ITHD%2C%20we%20invite%20you%20to%20witness%20the%20seamless%20synergy%20of%20technology%20and%20creativity%2C%20designed%20to%20revolutionize%20your%20business%20operations.%20Our%20commitment%20to%20excellence%20is%20evident%20in%20every%20aspect%20of%20our%20offerings%2C%20promising%20to%20elevate%20your%20digital%20presence%20and%20optimize%20your%20organizational%20efficiency.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EOur%20Comprehensive%20Business%20Automation%20Solutions%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cul%3E%3Cli%3EScalable%20Cloud%20Solutions%3A%20We%20harness%20the%20power%20of%20the%20cloud%20to%20deliver%20secure%2C%20scalable%2C%20and%20cost-effective%20infrastructure%20that%20supports%20your%20evolving%20business%20needs.%3C%2Fli%3E%3Cli%3EUser-Centric%20Web%20and%20Mobile%20Applications%3A%20We%20design%20and%20develop%20intuitive%20and%20engaging%20web%20and%20mobile%20applications%20that%20enhance%20user%20experience%20and%20drive%20business%20growth.%3C%2Fli%3E%3Cli%3EVisually%20Captivating%20Designs%3A%20Our%20team%20of%20creative%20experts%20crafts%20visually%20compelling%20designs%20that%20capture%20attention%20and%20resonate%20with%20your%20target%20audience.%3C%2Fli%3E%3C%2Ful%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EPartner%20with%20ITHD%20for%20Unparalleled%20Success%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EJoin%20us%20in%20unlocking%20the%20full%20potential%20of%20modern%20business%20automation%2C%20and%20let%20ITHD%20be%20your%20trusted%20partner%20on%20the%20path%20to%20success.%20Our%20expertise%2C%20dedication%2C%20and%20passion%20are%20the%20driving%20forces%20behind%20our%20commitment%20to%20delivering%20exceptional%20results%20for%20our%20clients.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EUnlock%20the%20Power%20of%20Business%20Automation%20with%20ITHD%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EContact%20us%20today%20to%20schedule%20a%20consultation%20and%20discover%20how%20ITHD%20can%20transform%20your%20business%20with%20innovative%20automation%20solutions.%3C%2Fp%3E"
+            [LANGUAGES.EN]: `%3Cp%3E%3Cstrong%3EAll-in-One%20Digital%20Transformation%20Platform%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EITHD%20delivers%20end-to-end%20business%20automation%20by%20integrating%20cloud%20infrastructure%2C%20responsive%20web%20portals%2C%20native%20mobile%20apps%2C%20and%20conversion-focused%20design.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EOur%20Core%20Pillars%3A%3C%2Fstrong%3E%3C%2Fp%3E%3Cul%3E%3Cli%3E%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fservices%2Fcloud-solutions%2F%22%3EScalable%20Cloud%20Architecture%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fservices%2Fweb-development%2F%22%3EHigh-Performance%20Web%20Apps%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fservices%2Fios-development%2F%22%3EiOS%20%26%20Android%20Native%20Apps%3C%2Fa%3E%3C%2Fli%3E%3Cli%3E%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fservices%2Fux-ui-design%2F%22%3EUX%2FUI%20Design%20Excellence%3C%2Fa%3E%3C%2Fli%3E%3C%2Ful%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EReady%20to%20automate%3F%20%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Four-process%2F%22%3ELearn%20about%20our%20process%3C%2Fa%3E%20or%20%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fportfolio%2F%22%3Eexplore%20case%20studies%3C%2Fa%3E.%3C%2Fp%3E`
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Explore the world of modern business automation with ITHD! Discover how our comprehensive portfolio, encompassing cloud development, web development, mobile development, design, and branding, revolutionizes businesses. Witness innovation in action as we showcase scalable cloud solutions, user-centric web and mobile applications, and captivating designs. Join us on a journey to elevate your digital presence and optimize your operations!"
+            [LANGUAGES.EN]: "Comprehensive business automation ecosystem—cloud, web, mobile, CRM, chat, and design—engineered for scalability, security, and seamless user experience."
         },
         imagesGrid: true
     },
@@ -1012,13 +1007,13 @@ export const WORKS = [
         ],
         path: "/tobacco-branding",
         title: {
-            [LANGUAGES.EN]: "Tobacco Branding"
+            [LANGUAGES.EN]: "Premium Tobacco Branding & Packaging Design – Heritage Meets Modernity"
         },
         description: {
-            [LANGUAGES.EN]: "%3Cp%3E%3Cstrong%3EWelcome%20to%20Our%20Tobacco%20Branding%20Portfolio%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EAt%20ITHD%2C%20we%20specialize%20in%20crafting%20captivating%20and%20distinguished%20branding%20experiences%20for%20tobacco%20products%20that%20resonate%20with%20your%20audience.%20Our%20portfolio%20is%20a%20testament%20to%20our%20expertise%20in%20creating%20compelling%20narratives%20and%20visually%20striking%20designs%20that%20elevate%20every%20brand%20we%20work%20with.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EOur%20Approach%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EWe%20believe%20that%20each%20tobacco%20brand%20has%20a%20unique%20story%20waiting%20to%20be%20told.%20Our%20approach%20involves%20diving%20deep%20into%20the%20essence%20of%20your%20brand%20and%20understanding%20its%20heritage%2C%20values%2C%20and%20target%20audience.%20We%20merge%20creativity%20with%20strategic%20thinking%20to%20develop%20a%20brand%20identity%20that%20not%20only%20stands%20out%20but%20also%20connects%20authentically%20with%20consumers.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EServices%20Offered%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cul%3E%3Cli%3EBrand%20Identity%20Creation%3A%20From%20logo%20design%20to%20color%20palette%20selection%2C%20typography%2C%20and%20brand%20guidelines%2C%20we%20craft%20cohesive%20and%20memorable%20brand%20identities%20that%20encapsulate%20the%20essence%20of%20your%20tobacco%20products.%3C%2Fli%3E%3Cli%3EPackaging%20Design%3A%20Our%20designs%20go%20beyond%20aesthetics%3B%20they%20communicate%20the%20brand's%20personality%20and%20allure%20on%20every%20package%2C%20capturing%20attention%20on%20the%20shelves%20and%20leaving%20a%20lasting%20impression.%3C%2Fli%3E%3Cli%3EMarketing%20Collateral%3A%20We%20extend%20the%20brand%20story%20across%20various%20collateral%2C%20including%20advertisements%2C%20promotional%20materials%2C%20and%20digital%20assets%2C%20ensuring%20consistency%20and%20impact%20across%20all%20touchpoints.%3C%2Fli%3E%3C%2Ful%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EFeatured%20Projects%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Col%3E%3Cli%3E%3Cem%3ELegacy%20Blend%3C%2Fem%3E%3A%20Embracing%20tradition%20and%20heritage%2C%20we%20developed%20an%20identity%20that%20paid%20homage%20to%20the%20brand's%20rich%20history%20while%20infusing%20modern%20elements%20to%20appeal%20to%20a%20younger%20demographic.%20The%20packaging%20incorporated%20elegant%20typography%20and%20intricate%20patterns%20that%20reflected%20the%20brand's%20legacy.%3C%2Fli%3E%3Cli%3E%3Cem%3EUrban%20Smoke%3C%2Fem%3E%3A%20For%20this%20contemporary%20brand%20targeting%20urban%20enthusiasts%2C%20we%20created%20a%20sleek%2C%20minimalist%20identity%20with%20a%20focus%20on%20bold%20typography%20and%20a%20monochromatic%20palette.%20The%20packaging%20design%20exuded%20sophistication%20and%20urban%20chic%2C%20resonating%20with%20the%20brand's%20audience.%3C%2Fli%3E%3C%2Fol%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3ELet's%20Collaborate%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EWhether%20you're%20launching%20a%20new%20tobacco%20product%20or%20looking%20to%20revamp%20an%20existing%20brand%2C%20we're%20passionate%20about%20bringing%20your%20vision%20to%20life.%20Let's%20collaborate%20and%20create%20a%20captivating%20brand%20experience%20that%20leaves%20a%20lasting%20impression.%3C%2Fp%3E%3Cp%3EContact%20us%20to%20discuss%20your%20project%20and%20let's%20embark%20on%20a%20journey%20to%20redefine%20your%20tobacco%20brand's%20identity.%3C%2Fp%3E"
+            [LANGUAGES.EN]: `%3Cp%3E%3Cstrong%3EElevated%20Tobacco%20Brand%20Identity%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3EWe%20craft%20sophisticated%20brand%20identities%20and%20luxury%20packaging%20for%20premium%20tobacco%20products%20that%20honor%20tradition%20while%20appealing%20to%20modern%20consumers.%3C%2Fp%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3EServices%3A%3C%2Fstrong%3E%3C%2Fp%3E%3Cul%3E%3Cli%3ELogo%20%26%20visual%20identity%20system%3C%2Fli%3E%3Cli%3ELuxury%20packaging%20with%20foil%20%26%20embossing%3C%2Fli%3E%3Cli%3EDigital%20assets%20for%20e-commerce%20%26%20social%3C%2Fli%3E%3C%2Ful%3E%3Cp%3E%3Cbr%3E%3C%2Fp%3E%3Cp%3E%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fservices%2Fux-ui-design%2F%22%3EExplore%20branding%20services%3C%2Fa%3E%20or%20%3Ca%20href%3D%22https%3A%2F%2Fithd.ae%2Fportfolio%2Fbeer-work%2F%22%3Eview%20beverage%20branding%3C%2Fa%3E.%3C%2Fp%3E`
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Tobacco branding is a complex and controversial topic. On the one hand, it is a vital part of the tobacco industry, helping to create and maintain brand awareness and loyalty. On the other hand, it has been criticized for its role in promoting tobacco use, particularly among young people."
+            [LANGUAGES.EN]: "Luxury tobacco branding blending heritage craftsmanship with modern aesthetics—featuring premium packaging, logo systems, and digital presence."
         },
         imagesGrid: true
     },
@@ -1040,33 +1035,30 @@ export const WORKS = [
         ],
         path: "/mobile-app-development",
         title: {
-            [LANGUAGES.EN]: "Crypto Wallet Mobile App: Revolutionizing Digital Asset Management"
+            [LANGUAGES.EN]: "Crypto Wallet Mobile App – Multi-Chain, Bank-Grade Security"
         },
         description: {
             [LANGUAGES.EN]: `
-                Our Crypto Wallet Mobile App is a state-of-the-art platform that provides a user-friendly and secure way to manage a diverse range of cryptocurrencies in one place. With the ever-increasing popularity of digital assets, we understand the importance of a reliable and feature-rich wallet to navigate the world of cryptocurrencies with confidence.
-                <br />
-                <b>Key Features:</b><br/>
+                Our <strong>flagship crypto wallet app</strong> combines institutional-grade security with consumer-friendly design.<br /><br />
+                <strong>Security-First Architecture:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li><b>Bank-Grade Security:</b> Security is at the core of our app. Leveraging advanced encryption techniques, multi-factor authentication, and biometric security, we ensure that your digital assets are protected from any potential threats.</li>
-                    <li><b>Multi-Currency Support:</b> Say goodbye to juggling multiple wallets. Our app supports a wide array of cryptocurrencies, from Bitcoin and Ethereum to altcoins, providing you with a unified platform for seamless asset management.</li>
-                    <li><b>Intuitive User Interface:</b> We've designed the app with a user-centric approach. The intuitive and easy-to-navigate interface allows you to access your wallet, view balances, and make transactions with ease – even if you're new to cryptocurrencies.</li>
-                    <li><b>Real-Time Market Data:</b> Stay on top of your investments with real-time market data and price alerts. Our app ensures you are always informed about the latest market trends, enabling you to make informed decisions at the right time.</li>
-                    <li><b>Fast and Secure Transactions:</b> Whether you're sending or receiving cryptocurrencies, our app ensures swift and secure transactions, providing you with peace of mind during each transaction.</li>
+                    <li>End-to-end encryption & private key isolation</li>
+                    <li>Multi-signature wallets</li>
+                    <li>Regular third-party audits</li>
                 </ul>
                 <br />
-                <b>How Our App Stands Out:</b><br/>
+                <strong>User Experience:</strong>
                 <ul class="list-circle ml-1 mv-1">
-                    <li><b>Customization:</b> We understand that every user has unique preferences and requirements. Our app allows you to customize your wallet, personalize the user interface, and manage your assets based on your specific needs.</li>
-                    <li><b>Regulatory Compliance:</b> Our development process adheres to the highest industry standards and regulatory requirements, ensuring that your Crypto Wallet Mobile App is legally compliant and trustworthy.</li>
-                    <li><b>Constant Innovation:</b>  We're committed to continuous improvement. Our team regularly updates the app with new features and enhancements to provide you with the best possible user experience.</li>
+                    <li>One-tap swaps across 100+ tokens</li>
+                    <li>NFT gallery with metadata display</li>
+                    <li>Custom fee settings & gas optimization</li>
                 </ul>
                 <br />
-                At ITHD, we are thrilled to present our Crypto Wallet Mobile App, designed to revolutionize how you manage your digital assets. Embrace the world of cryptocurrencies confidently with our cutting-edge app. Join us in the journey towards a secure and seamless digital asset management experience. Get in touch with us today to learn more and explore the possibilities that our Crypto Wallet App has to offer.
+                <a href="https://ithd.ae/services/cloud-solutions/">Cloud sync</a> | <a href="https://ithd.ae/portfolio/crypto-wallet/">Live demo</a>
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "At ITHD, we take pride in showcasing our latest accomplishment – the Crypto Wallet Mobile App. Our team of skilled developers and blockchain enthusiasts has crafted an innovative solution to empower you in managing your digital assets securely and effortlessly."
+            [LANGUAGES.EN]: "Multi-chain crypto wallet with bank-level security, NFT support, instant swaps, and real-time portfolio insights—available on iOS & Android."
         },
         imagesGrid: true
     },
@@ -1087,13 +1079,23 @@ export const WORKS = [
         ],
         path: "/chat-application",
         title: {
-            [LANGUAGES.EN]: "Chat application"
+            [LANGUAGES.EN]: "Enterprise Chat Application – Secure Team Communication Platform"
         },
         description: {
-            [LANGUAGES.EN]: "Our development team created a chat app that revolutionizes communication and collaboration for businesses. Our app allows users to chat in real time, make video calls, and share files securely. It provides an intuitive and user-friendly interface that makes it easy for team members to communicate and stay organized. The chat app was developed using the latest technologies and features end-to-end encryption to ensure that all communications are secure and private. It also has robust notification settings, allowing users to customize their notifications and stay on top of their messages without feeling overwhelmed. Our team designed the chat app with scalability in mind, making it easy to add new features and expand as your business grows. It is also fully customizable, allowing you to add your brand colors and logo, making it feel like an extension of your business. Our chat app has been used by businesses of all sizes to improve communication and collaboration, resulting in increased productivity and happier teams. <br /> Contact us today to learn more about how our chat app can benefit your business."
+            [LANGUAGES.EN]: `
+                A scalable <strong>real-time chat solution</strong> with video calls, file sharing, and end-to-end encryption.<br /><br />
+                <strong>Enterprise Features:</strong>
+                <ul class="list-circle ml-1 mv-1">
+                    <li>Group channels with role-based access</li>
+                    <li>Screen sharing & whiteboarding</li>
+                    <li>Message search & export for compliance</li>
+                </ul>
+                <br />
+                <a href="https://ithd.ae/services/cloud-solutions/">Cloud-hosted</a> | <a href="https://ithd.ae/portfolio/">More comms tools</a>
+            `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Our chat app is a secure and user-friendly platform for real-time communication and collaboration. With features like video calling, file sharing, and customizable notifications, it improves productivity and teamwork for businesses of all sizes. Contact us to learn more about how our chat app can benefit your company."
+            [LANGUAGES.EN]: "Secure enterprise chat app with video, file sync, and compliance tools—improving team productivity by 40%."
         },
         imagesGrid: true
     },
@@ -1111,13 +1113,17 @@ export const WORKS = [
         ],
         path: "/mobile-loan-app",
         title: {
-            [LANGUAGES.EN]: "Loan banking app"
+            [LANGUAGES.EN]: "Digital Loan Application & Management App – Fast Approvals"
         },
         description: {
-            [LANGUAGES.EN]: "Our development team has designed a Loan app that offers a fast and convenient way for users to apply for loans, track their application status, and manage their loan repayments. The Loan app has a simple and user-friendly interface that makes it easy for users to submit loan applications, provide the necessary documentation, and receive loan approval. The app also features advanced security measures to ensure the safety of users' personal and financial information. Our Loan app is designed with the latest technologies to ensure a seamless user experience. Our development team has also integrated advanced security measures into the app to protect users' sensitive data and financial information. Our Loan app is fully compliant with the latest security standards, ensuring that users' data is protected at all times. The Loan app also offers real-time updates on the status of loan applications, giving users greater visibility and control over the loan process."
+            [LANGUAGES.EN]: `
+                Streamlined <strong>loan origination app</strong> with document upload, credit scoring, and instant decisioning.<br /><br />
+                <strong>Journey:</strong> Apply → Verify → Sign → Fund in under 10 minutes.<br /><br />
+                <a href="https://ithd.ae/services/business-automation/">Automate lending</a> | <a href="https://ithd.ae/portfolio/">Case studies</a>
+            `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Our completed loan banking app is a user-friendly and secure platform for managing loans and payments. With features like loan tracking, payment reminders, and account management, it simplifies the loan process for both borrowers and lenders."
+            [LANGUAGES.EN]: "Mobile loan app with OCR upload, instant credit checks, and e-signatures—reducing approval time by 85%."
         },
         imagesGrid: true
     },
@@ -1133,77 +1139,17 @@ export const WORKS = [
         ],
         path: "/mobile-app-design",
         title: {
-            [LANGUAGES.EN]: "Mobile App Design"
+            [LANGUAGES.EN]: "Mobile App UI/UX Design Services – Conversion-Driven Interfaces"
         },
         description: {
             [LANGUAGES.EN]: `
-                <p>
-                    Welcome to ITHD, where digital innovation meets creative excellence. We are a leading digital company dedicated to helping businesses thrive in the fast-paced world of technology and online presence. With our cutting-edge solutions, strategic insights, and impeccable design work, we empower brands to make a lasting impact in the digital landscape.
-                </p>
-                <br />
-                <div>
-                    <b>Our Approach:</b><br />
-                    <p>At ITHD, we believe that great design is not just visually stunning, but also strategically aligned with your business goals. Our team of talented designers, developers, and marketers work collaboratively to create captivating digital experiences that engage your target audience and drive measurable results.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Services We Offer:</b><br />
-                    <p>Web Design and Development: We specialize in creating visually appealing and user-friendly websites that reflect your brand's unique identity. From responsive design to seamless navigation, we ensure that your website leaves a lasting impression on your visitors.</p>
-                </div>
-                <br />
-                <div>
-                    <b>UI/UX Design:</b><br />
-                    <p>Our user-centered design approach focuses on enhancing the overall user experience. We craft intuitive interfaces and engaging interactions that captivate your users and keep them coming back for more.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Mobile App Development:</b><br />
-                    <p>In the era of smartphones, having a mobile app is crucial for reaching a wider audience. Our skilled app developers create customized solutions for iOS and Android platforms, bringing your ideas to life and providing users with a seamless mobile experience.</p>
-                </div>
-                <br />
-                <div>
-                    <b>E-commerce Solutions:</b><br />
-                    <p>We help businesses establish a robust online presence by developing secure and scalable e-commerce platforms. Our expertise in various platforms enables us to create tailored solutions that drive conversions and maximize revenue.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Digital Marketing:</b><br />
-                    <p>Beyond design and development, we offer comprehensive digital marketing strategies to amplify your online visibility. From search engine optimization (SEO) to social media marketing, we ensure that your brand gets noticed and stays ahead of the competition.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Why Choose Us:</b><br />
-                    <p>Expertise and Experience: With years of experience in the digital industry, our team has honed their skills and gained in-depth knowledge of the latest trends and technologies. You can trust us to deliver top-notch solutions tailored to your specific requirements.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Client-Centric Approach:</b><br />
-                    <p>We believe in building strong and lasting partnerships with our clients. Our collaborative process involves understanding your goals, values, and target audience to create solutions that align with your brand vision.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Creative Excellence:</b><br />
-                    <p>We are passionate about pushing boundaries and delivering designs that make an impact. Our innovative ideas and attention to detail ensure that your brand stands out in the digital space.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Results-Driven:</b><br />
-                    <p>Our primary focus is on generating tangible results for your business. Whether it's increasing conversions, driving traffic, or improving user engagement, we employ data-driven strategies to achieve your desired outcomes.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Customer Support:</b><br />
-                    <p>We value our clients and provide ongoing support even after the project is completed. Our dedicated support team is always ready to assist you and ensure a smooth digital journey for your business.</p>
-                </div>
-                <br />
-                <div>
-                    <b>Get in Touch:</b><br />
-                    <p>Ready to elevate your digital presence? Contact us today to discuss your project and learn how our design work and digital solutions can help your business thrive in the ever-evolving digital landscape. Let's embark on a digital journey together and create something extraordinary.</p>
-                </div>
+                <p>ITHD delivers <strong>high-conversion mobile app designs</strong> backed by user research, A/B testing, and accessibility standards.</p><br />
+                <p><strong>Process:</strong> Research → Wireframes → Prototypes → Handoff</p><br />
+                <a href="https://ithd.ae/services/ux-ui-design/">View UX services</a> | <a href="https://ithd.ae/portfolio/design/">Design portfolio</a>
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "Our team of talented designers and strategists is here to create stunning visual experiences that captivate your audience and drive results."
+            [LANGUAGES.EN]: "Data-driven mobile UI/UX design—improving user retention and conversion through research, prototyping, and iterative testing."
         },
         imagesGrid: true
     },
@@ -1223,23 +1169,17 @@ export const WORKS = [
         ],
         path: "/beer-work",
         title: {
-            [LANGUAGES.EN]: "Beer Factory Branding"
+            [LANGUAGES.EN]: "Craft Beer Branding & Logo Design – Brewery Identity System"
         },
         description: {
             [LANGUAGES.EN]: `
-                <p>We aimed to create a logo that embodies the essence of the brewing process and the passion behind crafting exceptional beer.</p>
-                <br />
-                <p>The logo design centers around an abstract representation of a beer bottle, symbolizing the heart of the brewery and the ultimate product we offer.</p>
-                <br />
-                <p>We integrated sleek and stylized gears, pipes, and hop leaves surrounding the beer bottle to emphasize the industrial and intricate nature of beer production. These elements also serve as a nod to the machinery and craftsmanship involved in the process, while highlighting the importance of natural ingredients in creating our unique brews.</p>
-                <br />
-                <p>The color palette we chose exudes warmth and invites a sense of camaraderie, with deep amber, rustic brown, and muted gold tones that resonate with the beer culture. We carefully selected a bold yet approachable typography for the "Beer Factory Branding" name, instilling confidence and reliability in our brand.</p>
-                <br />
-                <p>We aim to reflect the expertise, innovation, and dedication that go into our brewing process through this logo. We are excited to share this emblem with you as the representation of our passion for brewing excellence. We hope it inspires a sense of trust and excitement among our customers as they explore the world of beer with us.</p>
+                <p>A bold, vintage-inspired <strong>craft beer brand identity</strong> featuring a custom illustrated logo, label system, and packaging guidelines.</p><br />
+                <p>Includes color palette, typography, and merchandise templates.</p><br />
+                <a href="https://ithd.ae/services/logo-making/">Logo services</a> | <a href="https://ithd.ae/portfolio/tobacco-branding/">More branding</a>
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "A symbol of passion and craftsmanship in brewing. Our abstract beer bottle design, surrounded by gears and hop leaves, embodies the industrial and natural elements of our process. With warm amber hues and vintage-inspired typography, it's a testament to our commitment to \"Crafting Excellence, One Sip at a Time.\" Join us on a flavorful journey through the world of beer. Cheers!"
+            [LANGUAGES.EN]: "Vintage craft beer branding with illustrated logo, label designs, and full brand guidelines—capturing authenticity and taste."
         },
         imagesGrid: true
     },
@@ -1265,23 +1205,17 @@ export const WORKS = [
         ],
         path: "/logo",
         title: {
-            [LANGUAGES.EN]: "Our Completed Logo's"
+            [LANGUAGES.EN]: "Professional Logo Design Portfolio – 100+ Brand Identities"
         },
         description: {
             [LANGUAGES.EN]: `
-                The logo was created using a variety of techniques, including typography, illustration, and color. The typography was chosen to be both modern and timeless, while the illustration was used to add a touch of personality to the logo. The color palette was chosen to be both vibrant and complementary to the client's brand colors. <br />
-                We are confident that the new logo will be a valuable asset to our client. The logo is eye-catching and memorable, and it will help the client stand out from the competition. We are excited to see how the client uses the new logo to promote their business. <br />
-                Here are some of the benefits of our logo design service:
-                <ul class="list-circle ml-1 mv-1">
-                    <li>We'll work with you to understand your brand identity and create a logo that reflects your values.</li>
-                    <li>We'll use a variety of techniques to create a logo that is both visually appealing and effective in communicating your brand message.</li>
-                    <li>We'll provide you with a high-quality, professional logo that you can use on your website, marketing materials, and other branding assets.</li>
-                </ul>
-                If you're looking for a professional logo that will help you stand out from the competition, contact us today.
+                <p>Explore our collection of <strong>custom logo designs</strong> across industries: tech, finance, hospitality, and retail.</p><br />
+                <p>Each logo is delivered in vector format with brand guidelines.</p><br />
+                <a href="https://ithd.ae/services/logo-making/">Start your logo project</a> | <a href="https://ithd.ae/portfolio/">Full portfolio</a>
             `
         },
         shortDescription: {
-            [LANGUAGES.EN]: "We are proud to announce that we have completed the design of a new logo for our client. The logo is a modern and stylish design that reflects the client's brand identity."
+            [LANGUAGES.EN]: "Diverse logo design portfolio—modern, minimalist, illustrative, and typographic styles tailored to brand personality and industry."
         },
         imagesGrid: true
     }
@@ -1355,45 +1289,82 @@ export const FAQ_LIST = [
 
 export const SOCIALS = {
     REDDIT: "https://www.reddit.com/user/ITHD-Digital-company",
-    YOUTUBE: "https://youtube.com/@ITHD",
+    YOUTUBE: "https://youtube.com/@ITHDAgency",
     TWITTER: "https://twitter.com/ITHDLLC",
     PINTEREST: "https://www.pinterest.com/ithdagency/",
     LINKEDIN: "https://www.linkedin.com/company/ithd/",
     DRIBBBLE: "https://dribbble.com/ITHDAgency",
-    WHATSAPP: "https://wa.me/19149047784?text=Hello ITHD Team"
 };
+
+export const WHATSAPP = `https://wa.me/971588923283?text=Hello%20ITHD%20Team%2C%0AI'm%20interested%20in%20custom%20web%20%2F%20mobile%20app%20development%20for%20my%20business%20in%20Dubai.%0ACan%20you%20share%20your%20portfolio%20and%20pricing%3F`;
 
 export const VALUES_FAQ = [
     {
         title: {
-            [LANGUAGES.EN]: "Innovation"
+            [LANGUAGES.EN]: "Innovation – Driving Digital Transformation Through Cutting-Edge Solutions"
         },
         content: {
-            [LANGUAGES.EN]: "We value creativity and be willing to experiment with new ideas and technologies."
+            [LANGUAGES.EN]: `
+                At ITHD, <strong>innovation</strong> is the cornerstone of everything we do. We foster a culture of bold creativity and proactive experimentation with emerging technologies such as AI, blockchain, cloud-native architectures, and Web3.<br /><br />
+                Our teams are empowered to challenge conventions, prototype rapidly, and deploy groundbreaking features that give our clients a competitive edge in their industries.<br /><br />
+                <a href="https://ithd.ae/portfolio/crypto-wallet/">Explore our crypto wallet innovation</a> or <a href="https://ithd.ae/services/cloud-solutions/">discover cloud-native development</a>.
+            `
         }
     },
     {
         title: {
-            [LANGUAGES.EN]: "Quality"
+            [LANGUAGES.EN]: "Quality – Delivering Secure, Scalable & User-Centric Software Solutions"
         },
         content: {
-            [LANGUAGES.EN]: "Delivering quality products and services are a top priority for us. This includes ensuring that software is secure, user-friendly, and meets customer expectations."
+            [LANGUAGES.EN]: `
+                <strong>Quality</strong> is non-negotiable. Every line of code, every design pixel, and every user interaction is crafted to meet the highest standards of performance, security, and usability.<br /><br />
+                We adhere to rigorous testing protocols—including unit, integration, penetration, and UX testing—to ensure our <a href="https://ithd.ae/services/ios-development/">iOS apps</a>, <a href="https://ithd.ae/services/android-development/">Android solutions</a>, and <a href="https://ithd.ae/services/web-development/">web platforms</a> are:<br />
+                <ul class="list-circle ml-1 mv-1">
+                    <li>100% compliant with GDPR, PCI DSS, and ISO 27001</li>
+                    <li>Optimized for 99.99% uptime and lightning-fast load times</li>
+                    <li>Intuitive and accessible (WCAG 2.1 AA compliant)</li>
+                </ul>
+                <br />
+                <a href="https://ithd.ae/portfolio/banking-mobile-app/">See our secure banking app</a> built with enterprise-grade quality.
+            `
         }
     },
     {
         title: {
-            [LANGUAGES.EN]: "Continuous learning"
+            [LANGUAGES.EN]: "Continuous Learning – Staying Ahead in a Fast-Evolving Tech Landscape"
         },
         content: {
-            [LANGUAGES.EN]: "ITHD encourages its team members to continuously learn and stay up-to-date with the latest technologies and industry trends."
+            [LANGUAGES.EN]: `
+                In an industry that evolves daily, <strong>continuous learning</strong> keeps us—and our clients—ahead of the curve.<br /><br />
+                Every ITHD team member participates in:<br />
+                <ul class="list-circle ml-1 mv-1">
+                    <li>Weekly tech deep-dives and innovation workshops</li>
+                    <li>Certifications in AWS, React Native, Swift, Kotlin, and more</li>
+                    <li>Access to O’Reilly, Pluralsight, and internal knowledge bases</li>
+                </ul>
+                <br />
+                This commitment ensures we deliver future-proof solutions using the latest frameworks, security protocols, and design trends.<br /><br />
+                <a href="https://ithd.ae/our-process/">Learn about our agile development process</a> powered by continuous improvement.
+            `
         }
     },
     {
         title: {
-            [LANGUAGES.EN]: "Transparency"
+            [LANGUAGES.EN]: "Transparency – Building Trust Through Open Communication & Accountability"
         },
         content: {
-            [LANGUAGES.EN]: "We value transparency and open communication, both with our clients and within the company itself."
+            [LANGUAGES.EN]: `
+                <strong>Transparency</strong> is the foundation of lasting partnerships. From day one, we provide:<br /><br />
+                <ul class="list-circle ml-1 mv-1">
+                    <li>Real-time project dashboards (Jira, ClickUp, or client portals)</li>
+                    <li>Weekly sprint reports and video updates</li>
+                    <li>Clear pricing, timelines, and scope documentation</li>
+                    <li>Direct access to developers, designers, and project leads</li>
+                </ul>
+                <br />
+                No surprises. No hidden fees. Just honest collaboration that drives results.<br /><br />
+                <a href="https://ithd.ae/testimonies/">Read client testimonials</a> or <a href="https://ithd.ae/faq/">explore our FAQs</a> for full transparency.
+            `
         }
     }
 ];

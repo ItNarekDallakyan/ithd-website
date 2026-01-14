@@ -47,7 +47,7 @@ export const MainComponent: FC = memo(() => {
                 video={"Ga8hidtwCFA"}
                 routePath={`${ROUTES.WORK}/crypto-wallet`}
             />
-            <TeamSection/>
+            <ContactUsSection/>
             <WorkExampleSection
                 isOrdered
                 key={"2"}
@@ -57,9 +57,6 @@ export const MainComponent: FC = memo(() => {
                 routePath={ROUTES.CONTACT}
                 title={localizations[currentLanguage].main.cryptoAppSection.title}
             />
-            <PartnersSection/>
-            <TestimoniesSection />
-            <ContactUsSection/>
             <HelperSection
                 containerClassName={"bg-white"}
                 shadowColor={"white"}

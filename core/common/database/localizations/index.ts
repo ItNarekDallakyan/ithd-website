@@ -67,8 +67,22 @@ export const LOCALIZATIONS = {
                 title: "Our values"
             },
             purpose: {
-                title: "Our purpose",
+                title: "Empowering Businesses Through Scalable & Expert Development Solutions",
                 description: "We understand the significance of development and its impact on businesses. However, many startups or small-scale enterprises lack access to adequate development resources. With the digital world expanding and diversifying, mastering all aspects of development has become nearly impossible for a single individual. Moreover, maintaining an in-house development team can be economically unfeasible for some businesses. Additionally, staying up-to-date with the latest development trends and tools can be overwhelming and challenging for brands. Thats where we come in to level the playing field and democratize access to top-notch development. Our purpose is to empower innovative companies that value the importance of development by providing them with market-leading development solutions without the hassle of hiring a dedicated development team. Our one-stop development agency strives to deliver exceptional results across all areas of digital development within a reasonable budget."
+            },
+            purpose1: {
+                title: "Making Professional Development Accessible, Affordable & Impactful",
+                description: "Every business deserves access to high-quality development — not just large corporations with big budgets. Many growing companies struggle with limited tech resources, recruitment challenges, and rising development costs. We remove those barriers by delivering expert development support tailored to your goals and budget. Our mission is to act as your trusted digital partner, offering end-to-end development services that empower your business to launch strong, scale smoothly, and compete confidently in today’s digital ecosystem."
+            },
+            purpose2: {
+                title: "Driving Innovation With Modern, High-Performance Development",
+                description: "In today’s rapidly evolving digital landscape, businesses must embrace innovative technologies and future-ready development practices to stay competitive and relevant. Yet, with the constant emergence of new programming frameworks, evolving industry standards, and sophisticated development tools, many organizations find it increasingly difficult to keep pace. Building the right technical foundation requires not only expertise, but also time, investment, and a dedicated team capable of adapting to fast-changing digital trends.\n" +
+                    "\n" +
+                    "That is where we make a difference. We bridge this critical gap by offering world-class development expertise designed to help companies innovate with confidence. Our team delivers high-performance digital solutions that transform visionary ideas into scalable, secure, and reliable products. From modern web and mobile applications to enterprise-level platforms and digital transformation projects, we empower businesses to accelerate technology adoption and unlock sustainable growth.\n" +
+                    "\n" +
+                    "Our approach prioritizes innovation, performance, security, and scalability — ensuring every digital product we build remains future-proof and aligned with industry best practices. We support organizations in navigating complex technical decisions, integrating modern development architectures, and optimizing workflows for maximum efficiency and ROI.\n" +
+                    "\n" +
+                    "With a commitment to excellence and continuous improvement, we help brands innovate faster, launch smarter, and evolve effortlessly with the market — all while maintaining cost-efficiency, technical precision, and long-term strategic value. Our mission is simple: to equip forward-thinking companies with the development expertise needed to stay ahead, compete globally, and create exceptional digital experiences for their users."
             },
             faq: {
                 title: "FAQs"
@@ -96,17 +110,19 @@ export const LOCALIZATIONS = {
             description: "Ready to get started? Contact us today and let us know how we can help you achieve your goals. Our team of experts is always ready to answer your questions and provide you with the support you need.",
             email: {
                 label: "E-MAIL",
-                value: "hello@ithd.org"
+                value: "info@ithd.ae"
             },
             address: {
                 labelUS: "United States",
+                labelUAE: "UAE",
+                valueUAE: "Dubai Internet City, Building 12, office 376 - Dubai",
+                valueUS: "Delaware Avenue South Portland, ME 04106 - US",
                 labelAM: "Armenia",
-                valueUS: "Delaware Avenue South Portland, ME 04106 US",
-                valueAM: "MAKKONY, Armenia, 0014, Yerevan"
+                valueAM: "MAKKONY, Armenia, 0014, Yerevan",
             },
             phone: {
                 label: "Phone",
-                value: "+1 914 904 7784"
+                value: "+971 58 892 3283"
             },
             whatsapp: {
                 label: "Whatsapp"
@@ -157,7 +173,7 @@ export const LOCALIZATIONS = {
                 "\n" +
                 "<p><p>ITHD Privacy And Cookie Policy</p> \n <strong>1. Introduction</strong><br /> This policy is subordinated by ITHD Personal Data Protection Policy.</p><br/>\n" +
                 "\n" +
-                "<p>This policy contains information on how the personal and other information of ithd.org visitors is to be collected and processed. Additionally, this policy applies to ithd.org sub-domains unless a sub-domain publishes its own policy.</p><br/>\n" +
+                "<p>This policy contains information on how the personal and other information of ithd.ae visitors is to be collected and processed. Additionally, this policy applies to ithd.ae sub-domains unless a sub-domain publishes its own policy.</p><br/>\n" +
                 "\n" +
                 "<p><strong>2. Personal Information We Collect and Process</strong><br /> Here is a description of information that may be collected through this site:</p><br/>\n" +
                 "\n" +
@@ -189,13 +205,13 @@ export const LOCALIZATIONS = {
                 "\n" +
                 "<p>When the personal data that we have collected is no longer required, we will delete it in a secure manner. We may process data for statistical purposes, but in such cases, data will be anonymized.</p><br />" +
                 "" +
-                "<p><strong>7. Your rights to your personal data</strong></p><p> As a data subject, you have a number of rights. You can: access and obtain a copy of your data on request; require ITHD to change incorrect or incomplete data; require ITHD to delete or stop processing your data, for example where the data is no longer necessary for the purposes of processing; object to the processing of your data where ITHD is relying on its legitimate interests as the legal ground for processing; withdraw any consent to personal data processing at any time. The right to request a restriction on further data processing, in case there is a dispute in relation to the accuracy or processing of your personal data; complain with a supervisory authority. Any query about your Privacy Rights should be sent to <a style='font-weight: bold' href='mailto:hello@ithd.org'>hello@ithd.org</a> with \"Privacy Rights Query\" tittle and your name inside.</p>"
+                "<p><strong>7. Your rights to your personal data</strong></p><p> As a data subject, you have a number of rights. You can: access and obtain a copy of your data on request; require ITHD to change incorrect or incomplete data; require ITHD to delete or stop processing your data, for example where the data is no longer necessary for the purposes of processing; object to the processing of your data where ITHD is relying on its legitimate interests as the legal ground for processing; withdraw any consent to personal data processing at any time. The right to request a restriction on further data processing, in case there is a dispute in relation to the accuracy or processing of your personal data; complain with a supervisory authority. Any query about your Privacy Rights should be sent to <a style='font-weight: bold' href='mailto:info@ithd.ae'>info@ithd.ae</a> with \"Privacy Rights Query\" tittle and your name inside.</p>"
         },
         terms: {
             title: "Terms & Conditions",
             rules: [
                 {
-                    content: "Welcome to ITHD Digital Agency, a digital IT company specializing in Development and Design. These Terms and Conditions govern your use of our website ithd.org and any products, software, or services provided by ITHD. By accessing or using our website, products, software, or services, you agree to be bound by these Terms and Conditions."
+                    content: "Welcome to ITHD Digital Agency, a digital IT company specializing in Development and Design. These Terms and Conditions govern your use of our website ithd.ae and any products, software, or services provided by ITHD. By accessing or using our website, products, software, or services, you agree to be bound by these Terms and Conditions."
                 },
                 {
                     content: "<strong>Use of our website:</strong> Our website is intended for use by individuals aged 18 years or older. You agree to use our website only for lawful purposes and in accordance with these Terms and Conditions. You must not use our website in any way that violates any applicable federal, state, local, or international law or regulation."
@@ -216,7 +232,7 @@ export const LOCALIZATIONS = {
                     content: "<strong>Changes to these terms and conditions:</strong> We reserve the right to modify or update these Terms and Conditions at any time without prior notice. Your continued use of our website, products, software, or services after any such changes constitutes your acceptance of the new Terms and Conditions."
                 },
                 {
-                    content: "<strong>Contact us:</strong> If you have any questions or concerns about these Terms and Conditions, please contact us at <a style='color: #2258a0' class='font-bold text-dark-blue' href='mailto:hello@ithd.org'>hello@ithd.org</a>.Welcome to ITHD Digital Agency, a digital IT company specializing in Development and Design. These Terms and Conditions govern your use of our website <a style='color: #2258a0' class='font-bold' href='https://ithd.org/'>ithd.org</a> and any products, software, or services provided by ITHD. By accessing or using our website, products, software, or services, you agree to be bound by these Terms and Conditions."
+                    content: "<strong>Contact us:</strong> If you have any questions or concerns about these Terms and Conditions, please contact us at <a style='color: #2258a0' class='font-bold text-dark-blue' href='mailto:info@ithd.ae'>info@ithd.ae</a>.Welcome to ITHD Digital Agency, a digital IT company specializing in Development and Design. These Terms and Conditions govern your use of our website <a style='color: #2258a0' class='font-bold' href='https://ithd.ae/'>ithd.ae</a> and any products, software, or services provided by ITHD. By accessing or using our website, products, software, or services, you agree to be bound by these Terms and Conditions."
                 }
             ]
         }

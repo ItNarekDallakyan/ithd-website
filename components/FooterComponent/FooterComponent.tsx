@@ -2,7 +2,7 @@ import {FC, MouseEvent, useContext} from "react";
 import Typography from "@ui/Typography";
 import Image from "next/image";
 import FooterListComponent from "@components/FooterComponent/FooterListComponent";
-import {FOOTER_ROUTES, ROUTING_ROUTES, SOCIALS} from "@common/database";
+import {FOOTER_ROUTES, ROUTING_ROUTES, SOCIALS, WHATSAPP} from "@common/database";
 import {Helpers} from "@common/helpers";
 import SocialItem from "@components/FooterComponent/SocialItem";
 import cs from "classnames";
@@ -90,7 +90,7 @@ export const FooterComponent: FC<FooterComponentModel> = (
                         <SocialItem
                             hoverType={"opacity"}
                             onClick={handleSocialRedirect}
-                            dataValue={SOCIALS.WHATSAPP}
+                            dataValue={WHATSAPP}
                         >
                             <WhatsappIcon
                                 width={"30"}
@@ -100,7 +100,7 @@ export const FooterComponent: FC<FooterComponentModel> = (
                         </SocialItem>
                         <a
                             target={"_self"}
-                            href={"tel:+19149047784"}
+                            href={"tel:+971588923283"}
                             className={"tracking-wider text-sm sm:text-base font-medium text-dark whitespace-nowrap transition-all hover:opacity-75 cursor-pointer"}
                         >
                             {phone.value}
@@ -152,7 +152,7 @@ export const FooterComponent: FC<FooterComponentModel> = (
                     className={"text-dove-grey md:w-1/2"}
                     variant={"body"}
                 >
-                    By using our site, you acknowledge that you have read and understand our <Link href={ROUTES.PRIVACY} className={"text-matisse underline"}>Privacy and Cookie Policy</Link>. All trademarks listed on this website are the property of their respective owners. All rights reserved. <br /> Copyright © 2023 ITHD
+                    By using our site, you acknowledge that you have read and understand our <Link href={ROUTES.PRIVACY} className={"text-matisse underline"}>Privacy and Cookie Policy</Link>. All trademarks listed on this website are the property of their respective owners. All rights reserved. <br /> Copyright © 2025 ITHD
                 </Typography>
             </div>
         </footer>

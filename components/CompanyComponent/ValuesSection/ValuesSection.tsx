@@ -11,7 +11,7 @@ export const ValuesSection: FC = () => {
     let {currentLanguage} = useMainSelector();
     let {localizations} = useContext(LocalizationsContext);
 
-    let {purpose, values} = localizations[currentLanguage].company;
+    let {purpose,purpose1,purpose2, values} = localizations[currentLanguage].company;
 
     return (
         <div className={"container mx-auto flex items-start max-xl:flex-col"}>
@@ -40,8 +40,28 @@ export const ValuesSection: FC = () => {
                 <Typography
                     weight={"normal"}
                     variant={"body"}
-                >
-                    {purpose.description}
+                    className={"mb-8"}
+                >{purpose.description}
+                </Typography>
+
+                <Typography variant={"h2"}>
+                    {purpose1.title}
+                </Typography>
+                <Typography
+                    weight={"normal"}
+                    variant={"body"}
+                    className={"mb-8"}
+                >{purpose1.description}
+                </Typography>
+
+                <Typography variant={"h2"}>
+                    {purpose2.title}
+                </Typography>
+                <Typography
+                    weight={"normal"}
+                    variant={"body"}
+                    className={"mb-8"}
+                >{purpose2.description}
                 </Typography>
             </div>
         </div>

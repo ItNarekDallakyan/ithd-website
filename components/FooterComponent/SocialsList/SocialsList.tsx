@@ -1,6 +1,6 @@
 import {FC, MouseEvent} from "react";
 import SocialItem from "@components/FooterComponent/SocialItem";
-import {SOCIALS} from "@common/database";
+import {SOCIALS, WHATSAPP} from "@common/database";
 import RedditIcon from "@assets/icons/RedditIcon";
 import LinkedInIcon from "@assets/icons/LinkedInIcon";
 import TwitterIcon from "@assets/icons/TwitterIcon";
@@ -34,7 +34,7 @@ export const SocialsList: FC<SocialsListModel> = (
                 &&
                 <SocialItem
                     onClick={handleSocialRedirect}
-                    dataValue={SOCIALS.WHATSAPP}
+                    dataValue={WHATSAPP}
                 >
                     <WhatsappIcon/>
                 </SocialItem>

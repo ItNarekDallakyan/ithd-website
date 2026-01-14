@@ -13,7 +13,7 @@ export const PartnersSection: FC = () => {
     const {partnersSection} = localizations[currentLanguage].main;
 
     return (
-        <div className={"container mx-auto pb-32 max-md:pb-16 w-full"}>
+        <div className="container mx-auto pt-16 pb-16 max-md:pt-16 max-md:pb-16 w-full">
             <div className={"flex items-center max-lg:flex-col gap-32 max-lg:gap-8"}>
                 <Typography variant={"h2"}>
                     {partnersSection.title}

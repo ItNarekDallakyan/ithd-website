@@ -25,6 +25,11 @@ export const CompanyInfo: FC<CompanyInfoModel> = ({className}) => {
             <CompanyCard />
             <InfoItem
                 className={"px-5 mt-8"}
+                label={address.labelUAE}
+                value={address.valueUAE}
+            />
+            <InfoItem
+                className={"px-5 mt-8"}
                 label={address.labelUS}
                 value={address.valueUS}
             />

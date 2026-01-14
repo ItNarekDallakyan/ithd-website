@@ -67,35 +67,36 @@ const AppPage = ({Component, pageProps}: AppProps) => {
                 `}
             </Script>
             <Script
-                id={"schema"}
-                defer
+                id="schema"
                 type="application/ld+json"
                 strategy="lazyOnload"
+                defer
             >
-                {`
+                {JSON.stringify({
                     "@context": "https://schema.org",
                     "@type": "Organization",
-                    "name": "ITHD",
-                    "alternateName": "ITHD Digital Agency",
-                    "url": "https://ithd.org",
-                    "logo": "https://ithd.org/images/logo.svg",
-                    "contactPoint": {
-                    "@type": "ContactPoint",
-                    "telephone": "+1 914 904 7784",
-                    "contactType": "customer service",
-                    "contactOption": "TollFree",
-                    "areaServed": "US",
-                    "availableLanguage": "en"
-                },
-                    "sameAs": [
-                    "https://twitter.com/ITHDLLC",
-                    "https://www.youtube.com/channel/UC8Q9bKPu9D8qtnC1klJGvIg",
-                    "https://www.linkedin.com/company/ithd/",
-                    "https://www.pinterest.com/ithdagency/",
-                    "https://ithd.org"
+                    name: "ITHD",
+                    alternateName: "ITHD Digital Agency",
+                    url: "https://ithd.ae",
+                    logo: "https://ithd.ae/images/logo.svg",
+                    contactPoint: {
+                        "@type": "ContactPoint",
+                        telephone: "+971 58 892 3283",
+                        contactType: "Customer Service",
+                        contactOption: "TollFree",
+                        areaServed: "AE",
+                        availableLanguage: ["en", "ar"]
+                    },
+                    sameAs: [
+                        "https://twitter.com/ITHDLLC",
+                        "https://www.youtube.com/channel/UC8Q9bKPu9D8qtnC1klJGvIg",
+                        "https://www.linkedin.com/company/ithd/",
+                        "https://www.pinterest.com/ithdagency/",
+                        "https://ithd.ae"
                     ]
-                `}
+                })}
             </Script>
+
             <Head>
                 <script src="//code.tidio.co/lkhibvi9lqnvjdnw3n6puhykkccrugee.js" async></script>
             </Head>

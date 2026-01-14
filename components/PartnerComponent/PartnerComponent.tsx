@@ -30,7 +30,7 @@ export const PartnerComponent: FC = memo(() => {
 
     return (
         <div className={"container mx-auto xl:pl-20"}>
-            <div className={"sm:py-20 max-sm:py-10 space-y-10"}>
+            <div className={"sm:py-5 max-sm:py-10 space-y-5"}>
                 <div className={"inline"}>
                     <Typography
                         variant={"h1"}
@@ -45,8 +45,8 @@ export const PartnerComponent: FC = memo(() => {
                         {splitValue.slice(splitValue.length - 2, splitValue.length).join(" ")}
                     </Typography>
                 </div>
-                <div className={"lg:flex lg:items-baseline gap-20 space-y-10"}>
-                    <div className={"space-y-5"}>
+                <div className={"lg:flex lg:items-baseline gap-20 space-y-5"}>
+                    <div className={"space-y-2"}>
                         <Typography
                             className={"text-dove-grey"}
                             variant={"body"}

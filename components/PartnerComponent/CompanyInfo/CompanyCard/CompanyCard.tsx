@@ -41,7 +41,7 @@ export const CompanyCard: FC = () => {
                 </div>
                 <a
                     className={"tracking-wider text-dark font-bold text-base font-bold sm:text-xl hover:opacity-75 transition-all"}
-                    href={"tel:+19149047784"}
+                    href={"tel:+971588923283"}
                 >
                     {phone.value}
                 </a>

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ithd.org/sitemap.xml
+Sitemap: https://ithd.ae/sitemap.xml

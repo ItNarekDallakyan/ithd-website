@@ -31,7 +31,8 @@ export enum ROUTES {
     PRIVACY = "/privacy-policy",
     TERMS = "/terms",
     FAQ = "/faq",
-    TESTIMONIES = "/testimonies"
+    TESTIMONIES = "/testimonies",
+    OCR = "/dibba-chatbot"
 }
 
 export enum LANGUAGES {
